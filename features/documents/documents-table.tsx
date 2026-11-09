@@ -58,7 +58,7 @@ export function DocumentsTable({ documents, sort, onSort, caption }: DocumentsTa
                   {meta.label}
                 </Badge>
               </TableCell>
-              <TableCell className="text-foreground-muted">{TRADE_LABELS[doc.trade]}</TableCell>
+              <TableCell className="text-body-lg text-foreground-muted">{TRADE_LABELS[doc.trade]}</TableCell>
               <TableCell className="whitespace-nowrap tabular-nums">
                 <time dateTime={doc.date}>{formatDate(doc.date)}</time>
               </TableCell>
