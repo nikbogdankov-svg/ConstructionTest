@@ -1,23 +1,35 @@
 "use client";
 
+import * as React from "react";
 import Link from "next/link";
-import { Calendar, FileStack, MessageSquareText, UserRound } from "lucide-react";
+import { BookOpen, Calendar, FileStack, MessageSquareText, UserRound } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { formatCount, formatDate } from "@/lib/format";
 import type { DocumentSummary } from "@/lib/mock/types";
 import { DOCUMENT_TYPE_META, TRADE_LABELS } from "./document-meta";
+import { DocumentViewerSheet } from "./document-viewer-sheet";
 
 /** Document title that opens a popup with a short summary of the document. */
 export function DocumentInfoPopover({ doc }: { doc: DocumentSummary }) {
   const meta = DOCUMENT_TYPE_META[doc.type];
   const Icon = meta.icon;
+  const [popoverOpen, setPopoverOpen] = React.useState(false);
+  const [viewerOpen, setViewerOpen] = React.useState(false);
+  const triggerRef = React.useRef<HTMLButtonElement>(null);
+
+  const openViewer = () => {
+    setPopoverOpen(false);
+    setViewerOpen(true);
+  };
 
   return (
-    <Popover>
+    <>
+    <Popover open={popoverOpen} onOpenChange={setPopoverOpen}>
       <PopoverTrigger asChild>
         <button
+          ref={triggerRef}
           type="button"
           aria-haspopup="dialog"
           className="group -mx-2 -my-1 flex w-full items-start gap-3 rounded-sm px-2 py-1 text-left transition-colors hover:bg-surface-hover focus-visible:focus-ring data-[state=open]:bg-primary-subtle"
@@ -77,13 +89,30 @@ export function DocumentInfoPopover({ doc }: { doc: DocumentSummary }) {
           </div>
         </dl>
 
-        <Button asChild variant="subtle" fullWidth>
-          <Link href={`/projects/${doc.projectId}/chat`}>
-            <MessageSquareText aria-hidden />
-            Ask about this document
-          </Link>
-        </Button>
+        <div className="flex flex-col gap-2">
+          <Button variant="primary" fullWidth onClick={openViewer}>
+            <BookOpen aria-hidden />
+            Open document
+          </Button>
+          <Button asChild variant="subtle" fullWidth>
+            <Link href={`/projects/${doc.projectId}/chat`}>
+              <MessageSquareText aria-hidden />
+              Ask about this document
+            </Link>
+          </Button>
+        </div>
       </PopoverContent>
     </Popover>
+    <DocumentViewerSheet
+      doc={doc}
+      open={viewerOpen}
+      onOpenChange={setViewerOpen}
+      onCloseAutoFocus={(event) => {
+        // The popup that opened the panel is gone, so return focus to the document title.
+        event.preventDefault();
+        triggerRef.current?.focus();
+      }}
+    />
+    </>
   );
 }

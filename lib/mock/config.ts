@@ -5,15 +5,16 @@
  *   ?mock=error         every call fails (MockApiError "server")
  *   ?mock=empty         list calls return [] (empty states on a full project)
  *   ?mock=stream-error  ask() streams part of the answer, then fails
+ *   ?mock=corrupt       getDocument() fails as if the file were corrupted (MockApiError "corrupted")
  *   ?mock=off           back to normal (300–1200 ms latency)
  *
  * The mode is remembered for the browser tab (sessionStorage) so it survives
  * client-side navigation; pass ?mock=off to clear it.
  */
-export type MockMode = "normal" | "slow" | "error" | "empty" | "stream-error";
+export type MockMode = "normal" | "slow" | "error" | "empty" | "stream-error" | "corrupt";
 
 const STORAGE_KEY = "plumb.mock.mode";
-const MODES: MockMode[] = ["normal", "slow", "error", "empty", "stream-error"];
+const MODES: MockMode[] = ["normal", "slow", "error", "empty", "stream-error", "corrupt"];
 
 export function getMockMode(): MockMode {
   if (typeof window === "undefined") return "normal";

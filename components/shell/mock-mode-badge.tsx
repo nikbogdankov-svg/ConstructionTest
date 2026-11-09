@@ -10,6 +10,7 @@ const LABELS: Record<Exclude<MockMode, "normal">, string> = {
   error: "Errors forced",
   empty: "Empty lists",
   "stream-error": "Stream fails",
+  corrupt: "Files corrupted",
 };
 
 /** Shows when a ?mock= switch is active so testers know why things look odd. */
