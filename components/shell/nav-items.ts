@@ -1,4 +1,4 @@
-import { FolderOpen, Brain, LayoutGrid, MessageSquareText, Search, type LucideIcon } from "lucide-react";
+import { FolderOpen, Brain, LayoutGrid, MessageSquareText, type LucideIcon } from "lucide-react";
 
 export interface NavItem {
   label: string;
@@ -10,7 +10,6 @@ export interface NavItem {
 /** Project-scoped navigation. Order = order in the sidebar. */
 export const PROJECT_NAV: NavItem[] = [
   { label: "Chat", icon: MessageSquareText, segment: "chat" },
-  { label: "Search", icon: Search, segment: "search" },
   { label: "Documents", icon: FolderOpen, segment: "documents" },
   { label: "Memory", icon: Brain, segment: "memory" },
 ];

@@ -1,15 +1,16 @@
 import type { Metadata } from "next";
-import { NotBuiltYet } from "@/components/patterns/not-built-yet";
-import { PageHeader } from "@/components/ui/page-header";
+import { Suspense } from "react";
+import { ChatScreen } from "@/features/chat/chat-screen";
+import { ChatThreadLoading } from "@/features/chat/chat-loading";
 
 export const metadata: Metadata = { title: "Chat" };
 
-// TODO(TASKS.md): replace this placeholder with the real Chat screen.
-export default function ChatPage() {
+/** Route files stay thin: read params, render the feature component. */
+export default async function ChatPage({ params }: { params: Promise<{ projectId: string }> }) {
+  const { projectId } = await params;
   return (
-    <div className="flex flex-col gap-6">
-      <PageHeader title="Chat" description="Ask questions about this project and get answers with sources." />
-      <NotBuiltYet feature="Chat" />
-    </div>
+    <Suspense fallback={<ChatThreadLoading />}>
+      <ChatScreen projectId={projectId} />
+    </Suspense>
   );
 }
