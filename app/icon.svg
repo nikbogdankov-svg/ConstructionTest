@@ -1,9 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Plinthwork">
   <title>Plinthwork</title>
-  <rect width="64" height="64" rx="10" fill="#1b5e4f"/>
-  <rect x="12" y="46" width="40" height="6" rx="1" fill="#f7f5f0"/>
-  <rect x="19" y="39" width="26" height="5" rx="1" fill="#f7f5f0"/>
-  <rect x="30.75" y="11" width="2.5" height="15" fill="#f7f5f0"/>
-  <rect x="25" y="9" width="14" height="3" rx="1" fill="#f7f5f0"/>
-  <path d="M25 26h14l-7 11z" fill="#cdef52" stroke="none" stroke-width="1.5" stroke-linejoin="round"/>
+  <defs>
+    <clipPath id="c"><circle cx="32" cy="32" r="32"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <circle cx="32" cy="32" r="32" fill="#1D3A5A"/>
+    <circle cx="41.7" cy="21.3" r="7.5" fill="#EC7457"/>
+    <path d="M-8 44 C-2 44 2 37 8 37 S18 44 24 44 S34 37 40 37 S50 44 56 44 S66 37 72 37" fill="none" stroke="#EFE6D2" stroke-width="4.8"/>
+    <path d="M-8 54.6 C-2 54.6 2 47.6 8 47.6 S18 54.6 24 54.6 S34 47.6 40 47.6 S50 54.6 56 54.6 S66 47.6 72 47.6" fill="none" stroke="#929A9B" stroke-width="4.8"/>
+  </g>
 </svg>
