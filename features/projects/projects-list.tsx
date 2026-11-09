@@ -80,7 +80,7 @@ function ProjectCard({ project }: { project: ProjectSummary }) {
         <div className="flex items-start gap-3">
           <Avatar name={project.name} initials={project.code} shape="square" size="lg" tone={project.accent} />
           <div className="flex min-w-0 flex-1 flex-col gap-1">
-            <h2 className="font-display text-h3 text-foreground">{project.name}</h2>
+            <h2 className="font-display text-overline text-foreground">{project.name}</h2>
             <div className="flex flex-wrap items-center gap-2">
               <Badge tone={status.tone} size="sm" dot>
                 {status.label}

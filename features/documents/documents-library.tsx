@@ -3,10 +3,12 @@
 import * as React from "react";
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { FolderOpen, MessageSquareText } from "lucide-react";
+import { FolderOpen, MessageSquareText, Search, SearchX, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { EmptyState } from "@/components/ui/empty-state";
 import { FormField } from "@/components/ui/form-field";
+import { IconButton } from "@/components/ui/icon-button";
+import { Input } from "@/components/ui/input";
 import { PageHeader } from "@/components/ui/page-header";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -20,6 +22,8 @@ import { formatCount } from "@/lib/format";
 import { DocumentsCardList } from "./documents-card-list";
 import { DocumentsLoading } from "./documents-loading";
 import { DocumentsTable } from "./documents-table";
+import { DocumentViewerSheet } from "./document-viewer-sheet";
+import { DOCUMENT_QUERY_PARAM, filterDocuments } from "./document-search";
 import { SORT_OPTIONS, parseDocumentSort, serializeDocumentSort, sortToValue, toggleSort } from "./document-sort";
 
 /**
@@ -49,6 +53,37 @@ export function DocumentsLibrary({ projectId }: { projectId: string }) {
     },
     [router, pathname, searchParams],
   );
+
+  // Search filters instantly as you type; the URL (?q=) follows shortly after so a reload or shared link restores it.
+  const [query, setQuery] = React.useState(() => searchParams.get(DOCUMENT_QUERY_PARAM) ?? "");
+  React.useEffect(() => {
+    const trimmed = query.trim();
+    if (trimmed === (searchParams.get(DOCUMENT_QUERY_PARAM) ?? "")) return;
+    const timer = setTimeout(() => {
+      const next = new URLSearchParams(searchParams);
+      if (trimmed) next.set(DOCUMENT_QUERY_PARAM, trimmed);
+      else next.delete(DOCUMENT_QUERY_PARAM);
+      const search = next.toString();
+      router.replace(`${pathname}${search ? `?${search}` : ""}`, { scroll: false });
+    }, 300);
+    return () => clearTimeout(timer);
+  }, [query, router, pathname, searchParams]);
+
+  const visibleDocuments = React.useMemo(
+    () => (documents.status === "success" ? filterDocuments(documents.data, query) : []),
+    [documents.status, documents.data, query],
+  );
+  const isSearching = query.trim().length > 0;
+
+  // ?doc=<documentId> opens that document in the viewer panel, so a link (or reload) reopens it.
+  const openDocId = searchParams.get("doc");
+  const openDoc = openDocId && documents.status === "success" ? documents.data.find((d) => d.id === openDocId) : undefined;
+  const closeViewer = () => {
+    const next = new URLSearchParams(searchParams);
+    next.delete("doc");
+    const search = next.toString();
+    router.replace(`${pathname}${search ? `?${search}` : ""}`, { scroll: false });
+  };
 
   const onColumnSort = (key: DocumentSortKey) => setSort(toggleSort(sort, key));
   const projectName = project.status === "success" ? project.data.name : null;
@@ -80,11 +115,31 @@ export function DocumentsLibrary({ projectId }: { projectId: string }) {
       />
 
       {documents.status === "success" && documents.data.length > 0 && (
+        <div className="flex flex-col gap-4">
         <div className="flex flex-wrap items-end justify-between gap-4">
-          <p className="flex items-center gap-2 text-body text-foreground-muted" aria-live="polite">
-            <strong className="text-foreground">{formatCount(count ?? 0, "document")}</strong>
-            {documents.isRefetching && <Spinner size="sm" tone="muted" label="Sorting" />}
-          </p>
+          <FormField label="Search documents" className="w-full md:max-w-md">
+            <Input
+              type="search"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Escape" && query) {
+                  e.preventDefault();
+                  setQuery("");
+                }
+              }}
+              placeholder="Name, code, type or trade, e.g. concrete spec"
+              autoComplete="off"
+              leadingIcon={<Search />}
+              trailing={
+                query && (
+                  <IconButton size="sm" label="Clear search" tooltip={false} onClick={() => setQuery("")}>
+                    <X aria-hidden />
+                  </IconButton>
+                )
+              }
+            />
+          </FormField>
           <FormField label="Sort by" className="w-full sm:w-56 md:hidden">
             <Select
               value={sortToValue(sort)}
@@ -106,6 +161,18 @@ export function DocumentsLibrary({ projectId }: { projectId: string }) {
             </Select>
           </FormField>
         </div>
+          <p className="flex items-center gap-2 text-body text-foreground-muted" aria-live="polite">
+            {isSearching ? (
+              <span>
+                <strong className="text-foreground">{visibleDocuments.length}</strong> of {formatCount(count ?? 0, "document")} match
+                “{query.trim()}”
+              </span>
+            ) : (
+              <strong className="text-foreground">{formatCount(count ?? 0, "document")}</strong>
+            )}
+            {documents.isRefetching && <Spinner size="sm" tone="muted" label="Sorting" />}
+          </p>
+        </div>
       )}
 
       {documents.status === "loading" && <DocumentsLoading />}
@@ -124,15 +191,33 @@ export function DocumentsLibrary({ projectId }: { projectId: string }) {
         />
       )}
 
-      {documents.status === "success" && documents.data.length > 0 && (
+      {documents.status === "success" && documents.data.length > 0 && visibleDocuments.length === 0 && (
+        <EmptyState
+          framed
+          icon={<SearchX />}
+          title="No documents match your search"
+          description={`Nothing matches “${query.trim()}” by name, code, type or trade. Try fewer or different words.`}
+          actions={
+            <Button variant="secondary" onClick={() => setQuery("")}>
+              Clear search
+            </Button>
+          }
+        />
+      )}
+
+      {documents.status === "success" && visibleDocuments.length > 0 && (
         <div className={documents.isRefetching ? "opacity-70 transition-opacity" : "transition-opacity"}>
           <div className="hidden md:block">
-            <DocumentsTable documents={documents.data} sort={sort} onSort={onColumnSort} caption={listLabel} />
+            <DocumentsTable documents={visibleDocuments} sort={sort} onSort={onColumnSort} caption={listLabel} />
           </div>
           <div className="md:hidden">
-            <DocumentsCardList documents={documents.data} label={listLabel} />
+            <DocumentsCardList documents={visibleDocuments} label={listLabel} />
           </div>
         </div>
+      )}
+
+      {openDoc && (
+        <DocumentViewerSheet doc={openDoc} open onOpenChange={(open) => !open && closeViewer()} />
       )}
     </div>
   );

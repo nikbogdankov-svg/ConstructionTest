@@ -1,4 +1,4 @@
-export type MockApiErrorCode = "not-found" | "server" | "network" | "validation";
+export type MockApiErrorCode = "not-found" | "server" | "network" | "validation" | "corrupted";
 
 /** The only error type the mock API throws (apart from AbortError). */
 export class MockApiError extends Error {

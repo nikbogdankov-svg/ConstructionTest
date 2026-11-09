@@ -129,9 +129,12 @@ export async function listDocuments(
 }
 
 export async function getDocument(documentId: string, options?: RequestOptions): Promise<ProjectDocument> {
-  await simulate(options);
+  const mode = await simulate(options);
   const doc = documents.find((d) => d.id === documentId);
   if (!doc) throw new MockApiError("not-found", `Document "${documentId}" doesn't exist.`);
+  if (mode === "corrupt") {
+    throw new MockApiError("corrupted", `"${doc.code}" can't be read. Simulated with ?mock=corrupt.`);
+  }
   return clone(doc);
 }
 
