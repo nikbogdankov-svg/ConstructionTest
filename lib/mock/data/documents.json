@@ -1,0 +1,770 @@
+[
+  {
+    "id": "doc-ald-001",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-MIN-001",
+    "title": "Pre-Start Meeting Minutes",
+    "type": "meeting-minutes",
+    "trade": "general",
+    "date": "2025-09-03",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Aldermoor Court – Pre-Start Meeting\nMinutes of meeting held on Wednesday 3 September 2025, 10:00, Halvern Build site office, 14 Aldermoor Road, Eastbrook.\n\nPresent: Sasha Morel (Eastbrook Living Housing Association, Client Representative); Priya Nandakumar (Halvern Build Ltd, Project Manager); Dana Whitlock (Halvern Build Ltd, Site Manager); Ewa Lindqvist (Halvern Build Ltd, H&S Advisor); Lena Okafor (Okafor Lind Architects); Jonas Brightwell (Brightmere Structural); Hugo Calder (Calder & Voss Engineering). Apologies: Rui Tanaka (Eastbrook Building Control).\n\n1. Project overview\n\n1.1 Aldermoor Court is a six-storey residential building providing 48 apartments (18 one-bed, 24 two-bed, 6 three-bed) above a single-level basement car park with 62 parking spaces, a plant room, a bin store and a cycle store for 96 bicycles. The basement and its 900 mm reinforced concrete raft sit partly below the groundwater level recorded in the site investigation.\n\n1.2 The works are let under a design and build contract. Halvern Build Ltd took possession of the site on Monday 1 September 2025. The contractual date for practical completion is Wednesday 30 June 2027, giving a contract period of 95 weeks.\n\n1.3 The superstructure is an in-situ reinforced concrete frame with 250 mm flat slabs, enclosed by steel framing system (SFS) infill walls and a brick slip rainscreen. Windows and balcony doors are thermally broken aluminium units.\n\n2. Programme\n\n2.1 PN presented the tender programme. Key early dates: site set-up and hoarding complete by 12 September 2025; bulk excavation and dewatering from 22 September 2025; raft foundation pours planned for January 2026 in three bays.\n\n2.2 SM asked for a monthly programme update to be issued with each progress meeting report. Agreed."
+      },
+      {
+        "number": 2,
+        "text": "3. Project directory\n\n3.1 The following contacts were confirmed for the project. All formal correspondence is to be issued through the common data environment (CDE); telephone and email are for day-to-day coordination only.\n\nClient – Eastbrook Living Housing Association: Sasha Morel, Development Manager and Client Representative, tel. 0161 555 0110, s.morel@eastbrookliving.example\n\nMain contractor – Halvern Build Ltd: Priya Nandakumar, Project Manager, tel. 0161 555 0131, p.nandakumar@halvern-build.example. Dana Whitlock, Site Manager, tel. 0161 555 0142, d.whitlock@halvern-build.example. Mateus Ferreira, Concrete Foreman, tel. 0161 555 0147, m.ferreira@halvern-build.example. Ewa Lindqvist, H&S Advisor, tel. 0161 555 0153, e.lindqvist@halvern-build.example\n\nArchitect – Okafor Lind Architects: Lena Okafor, Project Architect, tel. 0161 555 0164, l.okafor@okaforlind.example\n\nStructural engineer – Brightmere Structural: Jonas Brightwell, Associate Director, tel. 0161 555 0172, j.brightwell@brightmere-structural.example\n\nMEP consultant – Calder & Voss Engineering: Hugo Calder, MEP Lead, tel. 0161 555 0179, h.calder@caldervoss.example\n\nFacade subcontractor – Northpane Facades: Ines Barros, Package Manager, tel. 0161 555 0187, i.barros@northpane-facades.example\n\nWindow supplier – Velto Windows: Tomasz Wren, Technical Sales Manager, tel. 0161 555 0193, t.wren@velto-windows.example\n\nReady-mix supplier – Greystone Ready-Mix: Carys Doyle, Technical Manager, tel. 0161 555 0128, c.doyle@greystone-readymix.example. Orders desk tel. 0161 555 0120.\n\nBuilding control – Eastbrook Building Control: Rui Tanaka, Building Control Surveyor, tel. 0161 555 0105, r.tanaka@eastbrook-bc.example\n\n3.2 DW to circulate the directory to all subcontractors and keep it up to date on the CDE."
+      },
+      {
+        "number": 3,
+        "text": "4. Health and safety\n\n4.1 EL presented the construction phase plan. All operatives must attend site induction before starting work. Hard hats, safety boots, high-visibility vests, gloves and eye protection are mandatory beyond the welfare area.\n\n4.2 Excavation below 1.2 m is to be battered or supported; the dewatering system must be checked at the start of every shift and recorded in the site diary.\n\n5. Site rules and working hours\n\n5.1 Permitted working hours are Monday to Friday 07:30 to 18:00 and Saturday 08:00 to 13:00. No noisy work on Sundays or public holidays. Concrete pours that may overrun must be notified to the neighbours on Aldermoor Road at least 48 hours in advance.\n\n5.2 Deliveries are to be booked through the site office at least 24 hours ahead. The loading bay is on Aldermoor Road; vehicles must not wait on the public highway before 07:30.\n\n6. Communication and meetings\n\n6.1 Requests for information (RFIs) are to be raised on the CDE using the ALD-RFI numbering. The design team is to respond within 5 working days, or 2 working days where the RFI is marked urgent.\n\n6.2 Progress meetings will be held every four weeks on a Monday at 10:00, chaired by PN. Design team meetings will be held fortnightly on Thursdays.\n\n6.3 Change orders are to be numbered ALD-CO-nnn and must be approved in writing by the Client Representative before the work is instructed.\n\n7. Next meeting\n\n7.1 Progress Meeting No. 1 on Monday 3 November 2025, 10:00, site office."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-002",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SPEC-0310",
+    "title": "Structural Concrete Specification (Rev C)",
+    "type": "specification",
+    "trade": "concrete",
+    "date": "2025-10-06",
+    "author": "Jonas Brightwell (Brightmere Structural)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "ALD-SPEC-0310 Rev C – Structural Concrete Specification\nAldermoor Court, 14 Aldermoor Road, Eastbrook. Issued for construction.\n\n1 General\n\n1.1 Scope. This specification covers the supply, placing, compaction, curing and testing of all in-situ structural concrete for Aldermoor Court, including blinding, the basement raft foundation, basement retaining walls, columns, core walls, ground floor slab, suspended flat slabs at Levels 1 to 5 and the roof slab.\n\n1.2 Standards. Concrete shall be specified, produced and conformity-assessed in accordance with EN 206 and its national complementary standard. Execution shall comply with EN 13670 to Execution Class 2. Design is to EN 1992-1-1 and EN 1992-3 with the National Annex. Reinforcement shall be grade B500B to EN 10080.\n\n1.3 Submissions. The Contractor shall submit the proposed mix design for every concrete type to the Engineer at least 4 weeks before the first pour of that concrete type. Each submission shall state the strength class, exposure classes, cement type, total binder content, water-cement ratio, admixtures and dosages, maximum aggregate size, consistence class and chloride class.\n\n1.4 Revisions. Rev C supersedes Rev B dated 21 July 2025. Changes: clause 2.3 (basement walls) amended to add exposure class XA2 following the sulfate results in the supplementary ground investigation; clause 4.2 (crystalline admixture) added; clause 5.6 (cold weather) clarified.\n\n1.5 Definitions. Water-cement ratio means the ratio of free water to total cementitious content (cement plus any ground granulated blast-furnace slag or fly ash counted in accordance with EN 206). Binder content means the total cementitious content in kg/m³."
+      },
+      {
+        "number": 2,
+        "text": "2 Concrete schedule\n\n2.1 Blinding: strength class C12/15, minimum thickness 75 mm, laid within 24 hours of formation approval.\n\n2.2 Raft foundation (900 mm thick): strength class C32/40; exposure classes XC2 and XA2; maximum water-cement ratio 0.45; minimum binder content 340 kg/m³; cement CEM III/A 42.5N; crystalline waterproofing admixture to clause 4.2; consistence class S3; maximum aggregate size 20 mm; nominal cover 75 mm to bottom face and 50 mm to top face.\n\n2.3 Basement retaining walls (350 mm thick): strength class C32/40, exposure classes XC4, XD3 and XA2, maximum water-cement ratio 0.45, minimum binder content 340 kg/m³. Cement shall be CEM III/A 42.5N, or CEM I with not less than 50% ground granulated blast-furnace slag. A crystalline waterproofing admixture shall be included to clause 4.2. Consistence class S4; maximum aggregate size 20 mm; chloride class Cl 0,40. Nominal cover 50 mm to the external (earth) face and 45 mm to the internal (car park) face.\n\n2.4 Columns (300 x 600 mm): strength class C40/50, exposure class XC1, nominal cover 30 mm. Columns in the car park shall additionally be protected by the impact barriers shown on the architectural drawings.\n\n2.5 Core and shear walls: strength class C32/40, exposure class XC1, nominal cover 30 mm.\n\n2.6 Ground floor slab (300 mm) and suspended flat slabs at Levels 1 to 5 (250 mm): strength class C32/40, exposure class XC1, consistence class S3, nominal cover 25 mm top and bottom. The soffit of the ground floor slab over the car park shall have 35 mm cover for fire resistance R120.\n\n2.7 Roof slab (275 mm): strength class C32/40, exposure class XC3, nominal cover 35 mm top and 25 mm bottom.\n\n2.8 The car park running surface (top of raft) shall be power floated to class SR2 and receive the deck coating system specified by the Architect."
+      },
+      {
+        "number": 3,
+        "text": "3 Basement waterproofing\n\n3.1 Design approach. The basement shall be protected using combined protection. Type B (structurally integral) protection is provided by the raft and retaining walls with the crystalline admixture. In addition, Type C (drained cavity) protection is required to the plant room and cycle store, which shall achieve a Grade 3 environment. The car park shall achieve a Grade 2 environment: no water penetration acceptable, some moisture vapour tolerable.\n\n3.2 Construction joints. All kicker joints and vertical construction joints in the raft and basement walls shall incorporate a hydrophilic waterbar strip together with a re-injectable injection hose. Hose ends shall be brought out to accessible junction boxes, labelled and recorded on the joint record drawing. Kickers shall be cast monolithically with the raft and be not less than 150 mm high.\n\n3.3 Crack control. Basement walls and raft are designed for a maximum crack width of 0.2 mm. Any crack wider than 0.2 mm, or any crack showing moisture, shall be reported to the Engineer and repaired by resin injection to a method statement approved by the Engineer.\n\n3.4 Penetrations. Service penetrations through the raft or basement walls shall be formed only with cast-in puddle-flange sleeves to the Engineer's detail. Core drilling of basement walls is not permitted without written approval.\n\n4 Admixtures\n\n4.1 General. Admixtures shall comply with EN 934-2. Admixtures containing chlorides are not permitted. The combination of admixtures in any mix shall be confirmed as compatible by the supplier.\n\n4.2 Crystalline waterproofing admixture. The raft and basement wall concrete shall contain a crystalline waterproofing admixture, AquaLock CX or equal approved, dosed at 1.0% by mass of total binder unless otherwise agreed by the Engineer. The admixture shall be added at the batching plant, not on site. Its use does not relax any requirement of this specification for water-cement ratio, binder content, cover or crack width."
+      },
+      {
+        "number": 4,
+        "text": "5 Execution\n\n5.1 Pre-pour inspection. The Contractor shall give the Engineer at least 48 hours' notice of every pour of the raft, basement walls, transfer elements and suspended slabs. No concrete shall be placed until the Engineer has inspected the reinforcement, cover, cast-in items and formwork and has given approval to pour.\n\n5.2 Placing. Concrete shall be placed within 2 hours of batching. The free fall of concrete shall not exceed 1.5 m; tremie or pump hose shall be used in wall forms. Walls shall be placed in layers not exceeding 500 mm and compacted with internal vibrators.\n\n5.3 Water addition. No water shall be added to concrete on site. Superplasticiser may be added on site only by the supplier's technician, with the dosage recorded on the delivery ticket.\n\n5.4 Curing. Concrete shall be protected from drying immediately after placing. Elements in exposure class XD3 or XA2 shall be cured for a minimum of 7 days; all other elements for a minimum of 4 days. Wall formwork shall remain in place for at least 3 days, after which curing shall continue using an approved curing membrane or wet hessian under polythene.\n\n5.5 Striking. Slab soffit formwork shall not be struck until test cubes cured alongside the slab have reached 25 N/mm² and not earlier than 7 days after casting. Back-propping shall be maintained through the two floors below the slab being cast.\n\n5.6 Cold weather. Concrete shall not be placed when the air temperature is below 3°C and falling, or on frozen ground or reinforcement. The concrete temperature at delivery shall be at least 5°C. Freshly placed concrete shall be protected with insulated blankets when frost is forecast within 72 hours of placing.\n\n5.7 Hot weather. The concrete temperature at delivery shall not exceed 30°C."
+      },
+      {
+        "number": 5,
+        "text": "6 Testing and acceptance\n\n6.1 Sampling. One set of three 100 mm cubes shall be taken for every 50 m³ of each concrete type, with a minimum of one set per pour or per day. One cube of each set shall be tested at 7 days and two at 28 days. Additional cubes shall be cast and site-cured for striking decisions on suspended slabs.\n\n6.2 Consistence. A slump or flow test shall be carried out on the first delivery of each pour and thereafter on every fifth truck, and on any truck that appears visibly different.\n\n6.3 Records. The Contractor shall keep a pour record for each pour stating the element, grid location, volume, start and finish times, air temperature, delivery ticket numbers, test results and the names of the supervising foreman and inspector.\n\n6.4 Non-conformity. Where 28-day results do not meet the characteristic strength, the Contractor shall inform the Engineer within 24 hours and propose investigation, which may include cores to EN 12504-1.\n\n7 Tolerances and finishes\n\n7.1 Slab level: ±10 mm from the specified level. Slab flatness: 5 mm under a 2 m straightedge for areas receiving screed-free finishes.\n\n7.2 Wall verticality: 10 mm over the storey height. Position of cast-in channels and sleeves: ±10 mm.\n\n7.3 Basement walls shall have a Class B fair-faced finish to the car park face. Tie holes shall be plugged with a proprietary waterproof plug system approved by the Engineer."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-003",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SPEC-0420",
+    "title": "Facade Specification – Brick Slip Rainscreen (Rev B)",
+    "type": "specification",
+    "trade": "facade",
+    "date": "2025-12-08",
+    "author": "Lena Okafor (Okafor Lind Architects)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "ALD-SPEC-0420 Rev B – Facade Specification: Brick Slip Rainscreen\nAldermoor Court, 14 Aldermoor Road, Eastbrook.\n\n1 General\n\n1.1 Scope. This specification covers the design development, supply and installation of the external wall system to all elevations from Level 1 to the roof parapet, comprising steel framing system (SFS) infill walls, external insulation, ventilated cavity, aluminium support rails and brick slip carrier panels. The ground floor plinth is covered in section 8.\n\n1.2 Responsibility. The facade subcontractor shall complete the detailed design of brackets, rails, fixings and cavity barriers, supported by structural calculations, and is responsible for coordination with the window installation.\n\n1.3 Performance requirements. The completed wall shall achieve:\n(a) an area-weighted U-value not exceeding 0.18 W/m²K, calculated to EN ISO 6946;\n(b) air permeability of the building envelope not exceeding 3.0 m³/(h·m²) at 50 Pa;\n(c) resistance to wind load to EN 1991-1-4 for the site;\n(d) a reaction to fire classification of A1 or A2-s1,d0 to EN 13501-1 for all insulation, membranes, brackets, rails and cladding components, except for the small components listed in section 3.\n\n1.4 Revisions. Rev B supersedes Rev A. Insulation thickness increased from 140 mm to 160 mm; mock-up requirements in section 4 expanded."
+      },
+      {
+        "number": 2,
+        "text": "2 System build-up\n\n2.1 The external wall build-up from inside to outside is:\n12.5 mm plasterboard on 15 mm fire-rated board (by the drylining package);\n150 mm SFS studs at 600 mm centres with 100 mm mineral wool between studs;\n12 mm cement particle sheathing board;\nvapour-permeable breather membrane, class A2-s1,d0;\n160 mm Thermarock FS35 rainscreen insulation slab, mechanically fixed;\n40 mm minimum ventilated cavity;\naluminium helping-hand brackets and vertical T and L rails;\nbrick slip carrier panels with 20 mm clay brick slips, colour Eastbrook Buff, pointed in mortar colour Natural.\n\n2.2 The calculated U-value of the typical wall build-up is 0.16 W/m²K, including bracket bridging factors.\n\n2.3 Brackets shall be fixed to the slab edges at every floor. Fixings into slab edges shall maintain a minimum edge distance of 100 mm. Where cast-in channels are provided in the slab edge, brackets shall be fixed to the channels using the channel manufacturer's T-bolts.\n\n2.4 Movement joints. Vertical movement joints shall be provided at a maximum of 6 m centres and at all internal corners. Horizontal movement joints shall be provided at every floor level to accommodate slab deflection and frame shortening.\n\n2.5 Pointing. Brick slip joints shall be 10 mm, struck flush, using the panel manufacturer's factory-matched mortar. The final mortar colour shall be confirmed on the mock-up."
+      },
+      {
+        "number": 3,
+        "text": "3 Fire safety\n\n3.1 Cavity barriers shall be installed in the ventilated cavity at every floor level, at the junction with every compartment wall and around every window and door opening. Barriers in the ventilated cavity shall be open-state intumescent cavity barriers providing 60 minutes integrity and 30 minutes insulation, Linebar OS-60 or equal approved.\n\n3.2 The slab edge between the SFS and the slab shall be fire-stopped with a 120-minute linear joint seal, tested to EN 1366-4 for the gap size installed.\n\n3.3 Permitted small components that need not achieve A2-s1,d0 are limited to: window gaskets and seals, EPDM membranes at window reveals not exceeding 300 mm in width, sealants and intumescent materials.\n\n3.4 Installation of cavity barriers shall be photographed and recorded floor by floor, and each floor shall be inspected by the Contractor before the cladding panels close the cavity. Building control shall be offered a sample inspection at Level 1 and at one upper level.\n\n4 Visual and performance mock-up\n\n4.1 Before any brick slip panels are manufactured, the facade subcontractor shall build an on-site mock-up of the external wall, 3.0 m wide by 3.0 m high, including one complete window from the window package, a sill, a window head with cavity barrier, an external corner, a vertical movement joint and brick slip pointing.\n\n4.2 The mock-up must be approved in writing by both the Architect and the Client Representative before brick slip panel production is released. Approval shall cover brick slip colour, mortar colour, joint profile, sill and head details and the visual alignment of rails.\n\n4.3 The approved mock-up shall be retained on site as the quality benchmark until practical completion."
+      },
+      {
+        "number": 4,
+        "text": "5 Tolerances and workmanship\n\n5.1 Rail alignment: ±2 mm over 2 m and ±5 mm over a storey height. Brick slip joint width: 10 mm ±2 mm. Brick slip panel face flatness: 3 mm under a 1 m straightedge.\n\n5.2 Fixings into concrete shall be installed and proof-tested in accordance with the manufacturer's instructions. A minimum of 3% of post-installed anchors on each floor shall be proof-tested to 1.5 times the design working load.\n\n6 Submittals\n\n6.1 The facade subcontractor shall submit shop drawings and structural calculations for brackets and rails at least 6 weeks before installation begins on site.\n\n6.2 Samples: three brick slip panels showing the colour range; mortar samples; bracket and rail samples; cavity barrier product data with test evidence.\n\n6.3 Test certificates for reaction to fire classification of every component shall be provided before installation.\n\n7 Lead times and sequencing\n\n7.1 Brick slip panels: 8 weeks from written approval of the mock-up. Aluminium brackets and rails: 4 weeks from approved shop drawings. Insulation: 2 weeks.\n\n7.2 Brackets, insulation and rails may be installed before the brick slip panels arrive, provided each floor is weather-protected and the cavity barriers are inspected before closing.\n\n8 Ground floor plinth\n\n8.1 The ground floor plinth shall be 215 mm facing brick, colour Eastbrook Buff Dark, built as masonry cladding on stainless steel wall ties to the SFS, with a full-fill 100 mm mineral wool cavity."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-004",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SPEC-0450",
+    "title": "Windows and Balcony Doors Specification (Rev B)",
+    "type": "specification",
+    "trade": "windows",
+    "date": "2026-01-19",
+    "author": "Lena Okafor (Okafor Lind Architects)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "ALD-SPEC-0450 Rev B – Windows and Balcony Doors\nAldermoor Court, 14 Aldermoor Road, Eastbrook.\n\n1 General\n\n1.1 Scope. Supply and installation of 196 aluminium windows and 48 balcony doors to the apartments (244 units in total), including sub-sills, pressed aluminium sills, internal and external membranes, sealants and ironmongery. Communal entrance doors are excluded and specified separately.\n\n1.2 System. Thermally broken aluminium window system Velto AX70 by Velto Windows, or equal approved. Any alternative system shall demonstrate equal or better thermal, acoustic and weather performance by test evidence.\n\n1.3 Product standard. Windows and doors shall be CE/UKCA marked to EN 14351-1.\n\n1.4 Thermal performance. The whole-window thermal transmittance shall not exceed Uw 1.2 W/m²K, calculated to EN ISO 10077 for the standard window size. Glazing shall be double glazed with a centre-pane Ug not exceeding 1.0 W/m²K, warm edge spacers and argon fill.\n\n1.5 Solar control. The total solar energy transmittance (g-value) of the glazing shall not exceed 0.40 on the south and west elevations and 0.50 on the north and east elevations, to limit summer overheating in the apartments.\n\n1.6 Weather performance. Air permeability Class 4 to EN 12207; watertightness Class E750 to EN 12208; resistance to wind load Class C4 to EN 12210.\n\n1.7 Acoustic performance. Generally, the sound reduction of the window in the closed position shall be not less than Rw+Ctr 31 dB. Elevations identified in the acoustic report as requiring higher performance shall be confirmed with the Architect."
+      },
+      {
+        "number": 2,
+        "text": "2 Materials and finishes\n\n2.1 Frames. Extruded aluminium alloy EN AW-6060 T66 with polyamide thermal breaks.\n\n2.2 Finish. Frames, sashes, sills and external flashings shall be polyester powder coated to Qualicoat Class 2, minimum 60 microns. Colour: RAL 7016 Anthracite Grey, satin (30% gloss), to both internal and external faces.\n\n2.3 Glazing. Safety glazing to EN 12600 Class 1B1 is required in all panes wholly or partly within 800 mm of finished floor level and in all balcony door panes. Toughened glass shall be heat-soak tested.\n\n2.4 Ironmongery. Tilt-and-turn hardware with concealed hinges. All opening lights above ground floor shall be fitted with child-safe opening restrictors limiting the opening to 100 mm, overridable for cleaning and escape.\n\n2.5 Trickle ventilators are not required, as each apartment is provided with whole-house mechanical ventilation with heat recovery (MVHR).\n\n2.6 Sills. External sills shall be 3 mm pressed aluminium, 225 mm deep, with end caps and a minimum 25 mm drip projection beyond the face of the brick slip cladding, finished to match the frames.\n\n3 Installation\n\n3.1 Windows shall be fixed into the SFS openings with stainless steel brackets at maximum 600 mm centres. The installation sequence shall follow the facade subcontractor's sequence so that cavity barriers around the opening are installed and inspected before the window is fixed.\n\n3.2 An internal vapour-tight EPDM membrane and an external vapour-open EPDM membrane shall be bonded to the frame and to the SFS sheathing, providing an airtight and weathertight seal on all four sides.\n\n3.3 Installation tolerance: ±2 mm in the diagonal and level, and the frame shall be centred in the opening with a perimeter gap of 10 to 15 mm."
+      },
+      {
+        "number": 3,
+        "text": "4 Samples, mock-up and approvals\n\n4.1 One complete window, including sill and membranes, shall be supplied for inclusion in the facade mock-up described in ALD-SPEC-0420 section 4.\n\n4.2 Colour samples of the powder coat finish on aluminium, minimum 150 x 100 mm, shall be submitted for approval with the shop drawings.\n\n4.3 Shop drawings for every window type, together with thermal calculations demonstrating compliance with clause 1.4, shall be submitted to the Architect for approval before manufacture.\n\n5 Lead times\n\n5.1 The supplier has confirmed a manufacturing lead time of 10 weeks from approval of shop drawings and colour, and delivery in floor-by-floor batches to suit the installation sequence.\n\n6 Testing and handover\n\n6.1 Site water tests to the AAMA 501.2 hose test method, or equivalent agreed with the Architect, shall be carried out on 5% of installed windows, selected by the Architect, including at least one window per elevation per floor.\n\n6.2 Handover documentation shall include product declarations of performance, the as-installed schedule of window types by apartment, glass certificates and maintenance instructions."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-005",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SPEC-0510",
+    "title": "MEP Specification – Basement and Common Systems (Rev A)",
+    "type": "specification",
+    "trade": "mep",
+    "date": "2025-11-24",
+    "author": "Hugo Calder (Calder & Voss Engineering)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "ALD-SPEC-0510 Rev A – Mechanical, Electrical and Public Health Services: Basement and Common Systems\nAldermoor Court, 14 Aldermoor Road, Eastbrook.\n\n1 General\n\n1.1 Scope. This specification covers the central heating and hot water plant, car park ventilation, electric vehicle (EV) charging, below-ground and car park drainage, sprinkler protection and the coordination of service penetrations through the basement structure. Apartment services (heat interface units, MVHR, small power and lighting) are specified in ALD-SPEC-0520.\n\n1.2 Design criteria. External design temperatures: winter -4°C, summer 28°C dry bulb. Apartment internal design temperature 21°C living rooms, 18°C bedrooms. All plant shall be selected for operation with refrigerants having a global warming potential below 750.\n\n1.3 Coordination. The MEP subcontractor shall produce coordinated installation drawings in 3D, clash-checked against the structural model, before any sleeve, cast-in item or containment is installed."
+      },
+      {
+        "number": 2,
+        "text": "2 Heating and hot water\n\n2.1 Heat source. Heating and domestic hot water are generated centrally by three 70 kW air source heat pumps operating in cascade, located in the roof plant enclosure, with a 2,000 litre buffer vessel. Flow temperature 55°C; design return temperature 30°C.\n\n2.2 Distribution. Insulated flow and return risers in the two cores serve a heat interface unit (HIU) in each apartment. Each HIU provides instantaneous domestic hot water and heating with individual heat metering.\n\n2.3 Emitters. Apartments are heated by low-temperature radiators sized for a mean water temperature of 45°C.\n\n2.4 Ventilation of apartments. Each apartment has an MVHR unit with a heat recovery efficiency of at least 85% and a specific fan power not exceeding 0.85 W/(l/s).\n\n2.5 Controls. The plant shall be monitored by a building management system with remote access for the facilities manager. Alarms shall be sent by email and SMS."
+      },
+      {
+        "number": 3,
+        "text": "3 Car park ventilation\n\n3.1 The basement car park shall be ventilated by an impulse (jet fan) system comprising 6 reversible jet fans and 2 main extract fans of 50% duty each, discharging at roof level via a dedicated shaft in core B. Make-up air enters through the ramp opening.\n\n3.2 Normal ventilation is controlled by carbon monoxide (CO) and nitrogen dioxide (NO2) detection. Fans run at low speed when CO exceeds 30 ppm and at high speed when CO exceeds 90 ppm or NO2 exceeds 3 ppm. Smoke clearance mode provides 10 air changes per hour on activation of the fire alarm.\n\n3.3 Extract fans shall be rated F300 (300°C for 60 minutes) to EN 12101-3.\n\n4 EV charging\n\n4.1 Six car parking spaces shall be provided with active 7.4 kW Mode 3 chargers (Type 2 sockets), with load management to limit the total EV demand to the available supply capacity.\n\n4.2 All remaining spaces shall have passive provision: cable containment and spare capacity in the EV distribution board DB-EV1 to allow future chargers to be added without builder's work.\n\n4.3 DB-EV1 shall be fed by a 100 A TP&N sub-main from the main LV panel in the basement plant room."
+      },
+      {
+        "number": 4,
+        "text": "5 Drainage\n\n5.1 The car park floor drains via slot drains to a Class 1 full-retention separator (petrol interceptor) to EN 858, and then to a pumped sump with duty/standby submersible pumps discharging to the foul sewer. The sump shall have a high-level alarm connected to the BMS.\n\n5.2 The Type C cavity drainage systems in the plant room and cycle store drain to a separate sump with duty/standby pumps and a battery-backed high-level alarm.\n\n6 Sprinkler protection\n\n6.1 The car park shall be protected by a wet-pipe sprinkler system to EN 12845, Ordinary Hazard Group 2. The apartments shall be protected by a residential sprinkler system. Both systems are served from a sprinkler tank and pump set in the basement plant room.\n\n7 Service penetrations through the basement structure\n\n7.1 All services entering the building below ground level shall pass through cast-in puddle-flange sleeves, located and detailed in coordination with the Structural Engineer. Sleeve positions shall be issued on a dedicated sleeve schedule at least 3 weeks before the relevant wall pour.\n\n7.2 No service shall be routed through the raft. Rising mains from the pumped sumps shall exit through the basement walls above the car park slab level."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-006",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SD-2025-11-18",
+    "title": "Site Diary – 18 November 2025",
+    "type": "site-diary",
+    "trade": "groundworks",
+    "date": "2025-11-18",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Site Diary – Aldermoor Court\nTuesday 18 November 2025. Recorded by Dana Whitlock, Site Manager.\n\nWeather: heavy rain overnight and until 11:00 (14 mm recorded on the site gauge), then overcast and dry. Temperature 6°C at 07:30, 9°C at 14:00. Wind south-westerly, 20 to 30 km/h.\n\nLabour on site: Halvern Build 5 (site manager, assistant site manager, engineer, 2 general operatives); Doran Groundworks 13 (excavator drivers, banksmen, dumper drivers, pipe layers). Total 18.\n\nPlant: 2 x 21 t tracked excavators, 1 x 9 t forward-tipping dumper, 6 tonne roller, 2 x 100 mm submersible dewatering pumps plus 1 standby pump.\n\nWorks progress: Bulk excavation continued in zones 3 and 4 (north half of the basement footprint, gridlines A to D). Formation level reached in zone 3 at 4.6 m below existing ground level. Groundwater was encountered at approximately 4.2 m below ground level on the north side, consistent with the site investigation. Seepage into the excavation was controlled by the sump pumps at the north-east and north-west corners; water discharged through the settlement tank to the sewer under the temporary discharge consent.\n\nMuck away: 46 loads (approximately 460 m³) removed to the licensed tip. Wheel wash in operation all day; road sweeper attended at 12:00 and 16:30 following rain.\n\nInspections: Dewatering system checked at 07:30 and 13:00, all pumps running, no fines observed in the discharge. Excavation batters inspected by DW before the start of work and after the rain; minor slumping of the batter at grid A/2 was cut back and covered with polythene sheeting.\n\nVisitors: Jonas Brightwell (Brightmere Structural) inspected the formation in zone 3 at 14:30 and approved it for blinding, subject to removing a soft spot of approximately 2 m² at grid B/3 and replacing it with Type 1 granular fill.\n\nIssues: Rain delayed the start of excavation by approximately 3 hours. Bulk excavation remains forecast to finish by 12 December 2025."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-007",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SD-2026-01-22",
+    "title": "Site Diary – 22 January 2026 (Raft Bay 2 Pour)",
+    "type": "site-diary",
+    "trade": "concrete",
+    "date": "2026-01-22",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Site Diary – Aldermoor Court\nThursday 22 January 2026. Recorded by Dana Whitlock, Site Manager.\n\nWeather: clear and cold. Temperature 2°C at 06:30 rising to 7°C at 13:00, falling to 3°C by 17:30. Light frost at first light; no precipitation. Forecast overnight minimum -1°C.\n\nLabour on site: Halvern Build 7; concrete gang (Mateus Ferreira, foreman, plus 9 operatives); Brandt Rebar 4 (standby for the pour); Doran Groundworks 6; pump operators 2; Greystone Ready-Mix technician 1. Total 29.\n\nMain activity: Raft foundation Bay 2 (gridlines C to E, 900 mm thick) poured today. Approval to pour was given by Jonas Brightwell at 16:00 on 20 January after the pre-pour inspection, with all hydrophilic strips and injection hoses at the Bay 1 / Bay 2 joint checked and recorded.\n\nPour record: first truck on site 06:30, pour started 06:50, last truck discharged 17:40. Volume placed 368 m³ in 46 truck loads of mix GRM-3240-XA2-WP (C32/40 with AquaLock CX crystalline admixture). Two 36 m boom pumps used. Concrete temperature at delivery 9 to 12°C. Slump tests on first truck and every fifth truck, all within class S3. Eight sets of cubes taken.\n\nDelays: Truck 31 was rejected at 13:15 because the delivery ticket showed the wrong mix (C32/40 without admixture). Greystone replaced it within 35 minutes. No cold joint formed."
+      },
+      {
+        "number": 2,
+        "text": "Curing and protection: The top surface was power floated in sections from 15:00 and covered progressively with polythene and two layers of insulated blankets as frost is forecast. Curing to continue for a minimum of 7 days per ALD-SPEC-0310 clause 5.4. Temperature probes installed at the centre and top of the pour; readings to be taken twice daily by the concrete gang.\n\nOther works: Doran Groundworks continued excavation of the ramp at the east side. Brandt Rebar delivered 22 t of reinforcement for Bay 3, stored on bearers in the laydown area.\n\nDeliveries: 46 concrete trucks (Greystone); 22 t reinforcement (Brandt Rebar); 40 insulated blankets (hire).\n\nHealth and safety: Pour briefing held at 06:15 by Mateus Ferreira. Exclusion zone maintained around the pumps. Neighbours on Aldermoor Road were notified on 19 January of the extended working hours. No incidents.\n\nNext steps: Raft Bay 3 (gridlines E to H) reinforcement to start on Monday 26 January; pour targeted for Thursday 5 February 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-008",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SD-2026-03-14",
+    "title": "Site Diary – 14 March 2026 (Wall W3 Pour Postponed)",
+    "type": "site-diary",
+    "trade": "concrete",
+    "date": "2026-03-14",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Site Diary – Aldermoor Court\nSaturday 14 March 2026 (Saturday working, 08:00 to 13:00). Recorded by Dana Whitlock, Site Manager.\n\nWeather: overcast, dry. Temperature 4°C at 07:00, 8°C at 12:00. Wind light, northerly. Forecast for Sunday night and Monday morning: minimum -2°C.\n\nLabour on site: Halvern Build 3; concrete gang (Mateus Ferreira plus 6 operatives); Kelso Formwork 3. Total 12.\n\nPlanned activity: Pour of basement wall W3 (north wall, grid A/2 to A/5, 350 mm thick, approximately 46 m³, mix GRM-3240-XD3-WP). Formwork, reinforcement and cast-in sleeves had been inspected and approved by Brightmere Structural on Thursday 12 March.\n\nPour postponed: At 06:45 Carys Doyle (Greystone Ready-Mix) phoned to say the batching plant had suffered a conveyor failure and no concrete could be supplied today. The pump was stood down at 07:00. Greystone's earliest confirmed slot was Monday 16 March, but with frost forecast for Monday morning and the wall in exposure class XD3, MF and DW agreed to book the pour for Tuesday 17 March 2026 at 07:30 instead. Greystone confirmed the new booking at 09:40.\n\nProtection of the prepared wall: The kicker joint was cleaned with compressed air and the hydrophilic strip checked; it was found intact and dry. The top of the formwork was sheeted with polythene to keep rain off the kicker. The injection hose ends were checked, labelled W3-H1 and W3-H2 and taped.\n\nOther works: Kelso Formwork continued striking the wall W2 formwork (poured Tuesday 10 March) and cleaning the panels. Curing membrane applied to the exposed face of W2.\n\nProgramme impact: The W3 pour moves by two working days. Walls W4 and W5 will follow on 20 and 25 March. PN informed by phone; impact on the basement wall completion milestone to be reviewed on Monday.\n\nHealth and safety: No incidents. Saturday working logged with the site security."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-009",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SD-2026-07-09",
+    "title": "Site Diary – 9 July 2026",
+    "type": "site-diary",
+    "trade": "structure",
+    "date": "2026-07-09",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Site Diary – Aldermoor Court\nThursday 9 July 2026. Recorded by Dana Whitlock, Site Manager.\n\nWeather: sunny intervals after heavy rain on 7 and 8 July (31 mm over 48 hours). Temperature 15°C at 07:30, 22°C at 14:00. Wind light.\n\nLabour on site: Halvern Build 6; Kelso Formwork 16; Brandt Rebar 10; concrete gang 6; MEP first fix (Calder & Voss nominated installer Arden Services) 4; scaffolders 4. Total 46.\n\nWorks progress: Level 1 slab formwork complete across bays A to D; reinforcement fixing in progress in bays A and B. Columns ground to Level 1 cast on 6 July have been struck. Scaffold raised to Level 1 working platform on the north and east elevations.\n\nBasement watertightness inspection: Following the heavy rain, Jonas Brightwell (Brightmere Structural) carried out the watertightness inspection of the basement with DW and MF from 10:00 to 12:30. Damp patches were found at the construction joint between walls W2 and W3 on the north wall and around sleeve S-14 in the plant room. A hairline crack in wall W6 was noted as dry. Full findings will be issued in Brightmere inspection report ALD-INS-SE-011.\n\nActions: DW to book Sealtech Injection Services to inject the W2/W3 joint through the pre-installed injection hose and to treat sleeve S-14; provisional date Wednesday 15 July. Pumping of standing water from the car park slab to continue.\n\nDeliveries: 18 t reinforcement for the Level 1 slab; 2 loads of plywood and timber for edge forms.\n\nHealth and safety: Toolbox talk on working near slab edges given by Ewa Lindqvist. Edge protection checked on Level 1. No incidents."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-010",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SD-2026-10-27",
+    "title": "Site Diary – 27 October 2026 (Formwork Delivery Delay)",
+    "type": "site-diary",
+    "trade": "structure",
+    "date": "2026-10-27",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Site Diary – Aldermoor Court\nTuesday 27 October 2026. Recorded by Dana Whitlock, Site Manager.\n\nWeather: overcast with showers after 13:00 (4 mm). Temperature 9°C at 07:30, 12°C at 13:00. Wind westerly, 25 km/h, gusting 40 km/h in the afternoon; tower crane operations suspended from 14:40 to 15:20 when gusts exceeded the crane operating limit.\n\nLabour on site: Halvern Build 6; Kelso Formwork 14; Brandt Rebar 8; concrete gang 4; Northpane Facades 4 (mock-up); Arden Services MEP first fix 5; scaffolders 3. Total 44.\n\nWorks progress: Level 3 to Level 4 columns on gridlines A to D poured this morning, approximately 14 m³ of C40/50. Kelso Formwork continued erecting falsework for the Level 4 slab in bays A to C. Brandt Rebar delivered and started sorting the Level 4 bottom mat. Northpane Facades continued fitting brick slip panels to the facade mock-up at the south-west corner of the site compound.\n\nFormwork delivery delay: At 10:20 Owen Pratt of Ridgeform Hire phoned to advise that the table forms for the Level 4 slab (bays D to G) will not be delivered on Wednesday 28 October as planned. The tables are returning late from another contract and their haulier has no vehicle available; the revised delivery date is Monday 9 November 2026. Without the tables, bays D to G cannot be decked, so the Level 4 slab pour planned for Wednesday 4 November is not achievable."
+      },
+      {
+        "number": 2,
+        "text": "Actions taken: DW informed Priya Nandakumar by phone at 10:45 and confirmed by email at 11:10. DW asked Owen Pratt (Ridgeform Hire, tel. 0161 555 0198, o.pratt@ridgeform-hire.example) for written confirmation of the new delivery date and whether a part delivery is possible before 9 November. Greystone Ready-Mix orders desk told that the 205 m³ booking for 4 November is provisionally cancelled; Carys Doyle to hold capacity for the week of 16 November.\n\nOptions discussed with Mateus Ferreira: (1) pour Level 4 in two halves, bays A to C first; rejected by MF because the construction joint would fall across the punching shear zone at column C4 and would need the Engineer's approval; (2) wait for the full delivery and pour Level 4 in one operation. Recommendation to be presented at Progress Meeting No. 14 on Monday 2 November.\n\nDeliveries: 32 t reinforcement for Level 4 (Brandt Rebar); 1 load of brick slip panels for the mock-up (Northpane); scaffold fittings.\n\nVisitors: Lena Okafor (Okafor Lind Architects) visited the mock-up at 14:00 to review progress; formal review set for Friday 30 October.\n\nHealth and safety: Crane stood down during high winds as above. Housekeeping on Level 3 improved following the H&S audit of 15 October. No incidents."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-011",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-SD-2026-11-05",
+    "title": "Site Diary – 5 November 2026",
+    "type": "site-diary",
+    "trade": "structure",
+    "date": "2026-11-05",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Site Diary – Aldermoor Court\nThursday 5 November 2026. Recorded by Dana Whitlock, Site Manager.\n\nWeather: frost at first light, then clear and dry. Temperature 1°C at 07:30, 9°C at 13:00. Wind light, easterly.\n\nLabour on site: Halvern Build 6; Kelso Formwork 15; Brandt Rebar 9; Northpane Facades 3; Arden Services MEP 6; scaffolders 2. Total 41.\n\nWorks progress: Level 4 falsework and decking complete in bays A to C. Edge protection installed to the north and west edges of bays A to C. Brandt Rebar started fixing the bottom mat in bay A. Bays D to G remain open pending the Ridgeform table forms, which Owen Pratt has confirmed in writing will arrive on Monday 9 November at 07:30 (two loads). The Level 4 pour is booked with Greystone for Wednesday 18 November at 07:00 as agreed at Progress Meeting No. 14.\n\nCast-in channels: Northpane's set-out drawing NPF-ALD-210 Rev C received for the Level 4 slab edge. Anchorline AC-40 channels delivered and stored in the container.\n\nFacade mock-up: Northpane Facades re-pointed the left-hand panel of the mock-up with the lighter mortar (colour Natural Light) requested at the 30 October review, and refixed the open-state cavity barrier at the window head. The mock-up will be ready for re-inspection on Friday 13 November."
+      },
+      {
+        "number": 2,
+        "text": "MEP: Arden Services continued first fix containment on Level 2 and pressure tested the heating risers in core A to Level 3, test passed.\n\nDeliveries: 4 t reinforcement for Level 4 (balance); 1 pallet Anchorline AC-40 channels; Velto sample window frame offcuts in RAL 7022 / RAL 9016 for the Client's records.\n\nHealth and safety: Near miss at 11:20 – a short length of timber was dislodged from the Level 4 deck edge in bay C and fell inside the exclusion zone below; nobody was in the area. Work stopped on the deck edge, toe boards checked and a brick guard fitted to the full edge of bays A to C. Ewa Lindqvist informed and will issue a near-miss report. Toolbox talk on securing materials at height to be given to all trades at 07:45 tomorrow.\n\nVisitors: Rui Tanaka (Eastbrook Building Control) on site 13:30 to 14:15 to agree the sample inspection of cavity barriers at Level 1 once the facade starts in January."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-012",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-MIN-009",
+    "title": "Progress Meeting No. 9 – Minutes",
+    "type": "meeting-minutes",
+    "trade": "general",
+    "date": "2026-06-15",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Aldermoor Court – Progress Meeting No. 9\nMonday 15 June 2026, 10:00, site office.\n\nPresent: Sasha Morel (Eastbrook Living, SM); Priya Nandakumar (Halvern Build, PN); Dana Whitlock (Halvern Build, DW); Lena Okafor (Okafor Lind Architects, LO); Jonas Brightwell (Brightmere Structural, JB); Hugo Calder (Calder & Voss Engineering, HC); Ines Barros (Northpane Facades, IB). Apologies: Ewa Lindqvist.\n\n9.1 Health and safety. No reportable incidents since PM8. The May H&S audit score was 87%. Action on scaffold tagging closed.\n\n9.2 Progress. Basement walls were completed on 29 May 2026, one week later than the Rev 5 programme, mainly due to the postponed W3 pour in March and the wet weather in April. The ground floor slab reinforcement is 80% fixed; the pour is planned for Wednesday 24 June 2026. The basement watertightness inspection will take place after the first significant rainfall in July, before the plant room fit-out starts.\n\n9.3 Programme. PN confirmed that the one-week slip on the basement walls has been recovered within the Level 1 to Level 3 slab cycle, which assumes a five-week cycle per floor. Practical completion remains 30 June 2027."
+      },
+      {
+        "number": 2,
+        "text": "9.4 Window frame colour. Following the review of brick slip sample panels on site on 9 June, SM reported that Eastbrook Living considers the specified RAL 7016 Anthracite Grey too dark against the Eastbrook Buff brick slips and too heavy inside the apartments. LO presented three alternatives.\n\nDecision: The window and balcony door frames will change from RAL 7016 to a dual-colour finish: RAL 7022 Umbra Grey matt to the external face and RAL 9016 Traffic White satin to the internal face. External sills and flashings to match the external colour.\n\nActions: PN to issue a change order with Velto Windows' price by Friday 19 June. SM to approve the change order by Monday 22 June. Velto requires the instruction by 26 June 2026 to hold the current production slot.\n\n9.5 Facade mock-up. IB confirmed Northpane will build the mock-up at the south-west corner of the compound in October, once the Level 3 slab is complete and the crane is available. LO and SM to attend the review. Target date for written approval of the mock-up: Friday 6 November 2026.\n\n9.6 EV charging. HC confirmed that the larger sub-main for DB-EV1 required by ALD-CO-002 (12 active chargers) has been ordered. Delivery is expected in August."
+      },
+      {
+        "number": 3,
+        "text": "9.7 Change orders. Status: ALD-CO-001 (additional dewatering) approved and closed; ALD-CO-002 (EV charging increase) approved 3 March 2026; ALD-CO-003 (bin store door upgrade) under review by SM; ALD-CO-004 (window frame colour) to be issued.\n\n9.8 Information required. JB to issue the revised slab edge details for Levels 2 to 5 by 30 June. HC to issue the sleeve schedule for the ground floor slab by 19 June.\n\n9.9 Any other business. SM asked whether the roof PV array can be enlarged to improve the energy performance certificate. HC to advise on capacity and cost by PM10.\n\n9.10 Commercial. PN reported that the valuation for May has been agreed with the Client's cost consultant. Change order values to date are recorded in the monthly cost report issued separately to the Client.\n\n9.11 Next meeting. Progress Meeting No. 10 on Monday 13 July 2026, 10:00, site office."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-013",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-MIN-DT-17",
+    "title": "Design Team Meeting No. 17 – Facade and Interfaces",
+    "type": "meeting-minutes",
+    "trade": "facade",
+    "date": "2026-09-10",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Aldermoor Court – Design Team Meeting No. 17: Facade and Interfaces\nThursday 10 September 2026, 14:00, video call.\n\nPresent: Priya Nandakumar (Halvern Build, PN); Dana Whitlock (Halvern Build, DW); Lena Okafor (Okafor Lind Architects, LO); Jonas Brightwell (Brightmere Structural, JB); Hugo Calder (Calder & Voss Engineering, HC); Ines Barros (Northpane Facades, IB); Tomasz Wren (Velto Windows, TW).\n\n17.1 Cast-in channels. JB confirmed that, following ALD-RFI-029, cast-in channels are required at the slab edges from Level 2 to the roof slab. The Level 2 slab poured on 3 September included the channels. Channels must be checked against Northpane's set-out drawing at every pre-pour inspection. IB to issue Rev C of drawing NPF-ALD-210 for Levels 4 and 5 by 30 October.\n\n17.2 Facade mock-up. IB confirmed construction of the mock-up will start on Monday 5 October and finish by Friday 23 October. TW confirmed the mock-up window will be delivered on 28 September in the new dual colour (RAL 7022 external, RAL 9016 internal) under ALD-CO-004.\n\n17.3 Acoustic glazing. LO reported that the updated acoustic assessment, issued after the bus route on Aldermoor Road was confirmed, requires higher sound insulation to the bedrooms and living rooms facing Aldermoor Road. Decision: the windows and balcony doors on the east elevation at Levels 1 to 3 will be upgraded to acoustic laminated glazing achieving Rw+Ctr 36 dB. TW to price; PN to issue the change order.\n\n17.4 Sills. TW raised that the 225 mm sill in ALD-SPEC-0450 may not give the required drip projection now that the insulation is 160 mm. LO asked for a formal RFI."
+      },
+      {
+        "number": 2,
+        "text": "17.5 Roof PV. HC confirmed the roof structure has capacity for the enlarged PV array instructed under ALD-CO-006, based on JB's check of the ballast loads. Layout drawing to be issued by 24 September.\n\n17.6 Building control. PN reported that Rui Tanaka will carry out a basement inspection on Tuesday 22 September covering the car park ventilation, sprinkler installation and fire-stopping in the plant room and cycle store.\n\n17.7 Information required.\nIB: shop drawings and bracket calculations for the north and east elevations – 16 October.\nTW: shop drawings for the acoustic units – 2 October.\nHC: car park ventilation commissioning method statement – 9 October.\n\nNote: LO reminded all parties that every external wall component must achieve A1 or A2-s1,d0 under ALD-SPEC-0420 clause 1.3, and that any substitution of insulation, membranes or cavity barriers requires the Architect's written approval and test evidence before it is ordered.\n\n17.8 Next design team meeting: Thursday 24 September 2026, 14:00."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-014",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-MIN-014",
+    "title": "Progress Meeting No. 14 – Minutes",
+    "type": "meeting-minutes",
+    "trade": "general",
+    "date": "2026-11-02",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Aldermoor Court – Progress Meeting No. 14\nMonday 2 November 2026, 10:00, site office.\n\nPresent: Sasha Morel (Eastbrook Living, SM); Priya Nandakumar (Halvern Build, PN); Dana Whitlock (Halvern Build, DW); Mateus Ferreira (Halvern Build, MF); Ewa Lindqvist (Halvern Build, EL); Lena Okafor (Okafor Lind Architects, LO); Jonas Brightwell (Brightmere Structural, JB); Ines Barros (Northpane Facades, IB). Apologies: Hugo Calder.\n\n14.1 Health and safety. EL reported the October audit (ALD-INS-HS-010) score of 91%, up from 87%. Open actions: scaffold tags on the south elevation lift 4 (closed 19 October); edge protection gap at Level 3 east (closed 16 October). No reportable incidents.\n\n14.2 Progress. Level 3 slab poured 8 October as planned. Level 3 to Level 4 columns complete. Level 4 falsework in bays A to C is under way.\n\n14.3 Level 4 slab. DW reported that Ridgeform Hire has delayed delivery of the table forms for bays D to G from 28 October to Monday 9 November (see site diary 27 October). Pouring in two halves was considered and rejected because the joint would cross the punching shear zone at column C4.\n\nDecision: The Level 4 slab pour is rescheduled from Wednesday 4 November to Wednesday 18 November 2026, poured in one operation (approximately 205 m³, start 07:00). Pre-pour inspection by Brightmere on Monday 16 November.\n\nConsequential changes: Level 5 slab moves from 25 November to 9 December 2026; roof slab moves from 16 December 2026 to 13 January 2027 because of the Christmas shutdown (21 December to 1 January). PN will run an additional Saturday shift for reinforcement fixing on Levels 4 and 5 to protect the January facade start."
+      },
+      {
+        "number": 2,
+        "text": "14.4 Facade mock-up. The mock-up was completed on 23 October and reviewed on 30 October by LO and SM. Comments: (1) the mortar colour Natural reads too dark – trial the lighter Natural Light on one panel; (2) the open-state cavity barrier at the window head was not continuous and must be refixed; (3) the sill end caps are to be sealed. IB confirmed Northpane will complete the rectification by Friday 13 November.\n\nDecision: The deadline for written approval of the facade mock-up is moved from 6 November to Friday 20 November 2026. Approval to be signed by both LO (Architect) and SM (Client Representative). IB noted that brick slip panel production cannot start until written approval is received and the lead time is 8 weeks; any slip beyond 20 November delays the delivery of the first panels day for day.\n\n14.5 Windows. Velto Windows will start production of the Level 1 and Level 2 windows on 30 November. The acoustic units for the east elevation under ALD-CO-007 are included in the first batch. The revised sill detail from ALD-RFI-033 has been incorporated.\n\n14.6 Building control. JB and DW confirmed that the defect raised at the 22 September inspection (unsealed penetrations in the plant room wall) was closed out at the re-inspection on 13 October."
+      },
+      {
+        "number": 3,
+        "text": "14.7 Change orders. ALD-CO-006 (roof PV) approved. ALD-CO-007 (acoustic glazing) approved by SM on 1 October. No new change orders this period.\n\n14.8 Actions.\nDW – confirm Ridgeform delivery in writing and issue revised three-week lookahead – 6 November.\nMF – re-book Greystone for 18 November, 205 m³, two pumps on standby – 4 November.\nJB – pre-pour inspection of Level 4 slab, including cast-in channels – 16 November.\nIB – complete mock-up rectification – 13 November.\nLO and SM – written approval of facade mock-up – 20 November.\nPN – issue Programme Rev 7 – 4 November.\n\nNote on winter working: MF confirmed 40 insulated blankets are on hire for the Level 4 and Level 5 pours. If the forecast minimum for the night after a pour is below 0°C, the slab is to be covered immediately after finishing, in accordance with ALD-SPEC-0310 clause 5.6. EL asked for deck lighting to be checked before every 07:30 start.\n\n14.9 Next meeting. Progress Meeting No. 15 on Monday 30 November 2026, 10:00, site office."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-015",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-CO-002",
+    "title": "Change Order 002 – Increase in Active EV Chargers",
+    "type": "change-order",
+    "trade": "mep",
+    "date": "2026-02-26",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Change Order ALD-CO-002 – Increase in Active EV Chargers\nAldermoor Court. Issued 26 February 2026 by Priya Nandakumar (Halvern Build Ltd).\n\n1. Description of change\n\n1.1 ALD-SPEC-0510 clause 4.1 provides six active 7.4 kW EV chargers, with passive provision to all other spaces. Following an update to Eastbrook Living's sustainability policy, the Client has instructed that the number of active chargers be doubled.\n\n1.2 Revised scope: 12 of the 62 car parking spaces will have active 7.4 kW Mode 3 chargers with Type 2 sockets, including 2 of the 4 accessible spaces. The remaining 50 spaces retain passive provision (containment and spare capacity in DB-EV1).\n\n1.3 To serve the additional chargers, the sub-main to DB-EV1 increases from 100 A TP&N to 160 A TP&N, and DB-EV1 is upgraded to a 24-way board. The dynamic load management system is extended to all 12 chargers, with a maximum aggregate EV demand of 70 kW.\n\n2. Cost\n\n2.1 Six additional chargers supplied, installed and commissioned: £16,200.\n2.2 Sub-main and distribution board upgrade: £8,950.\n2.3 Load management licences and commissioning: £2,450.\nTotal addition to the contract sum: £27,600.\n\n3. Programme\n\n3.1 No impact on the completion date. The upgraded sub-main has a 10-week lead time and is required before second fix in the basement in early 2027."
+      },
+      {
+        "number": 2,
+        "text": "4. Design responsibility\n\n4.1 Calder & Voss Engineering to revise the EV layout drawing ALD-M-5410 and the LV schematic ALD-E-5001 to show the additional chargers and the upgraded sub-main. Hugo Calder confirmed on 24 February that the incoming supply capacity agreed with the network operator is sufficient for the revised load with load management in place.\n\n4.2 Arden Services to submit the charger product data, the revised DB-EV1 schedule and the load management configuration for approval before ordering. The charger locations are to avoid the jet fan throw zones and the sprinkler pipework shown on the coordinated basement services model.\n\n4.3 Testing and commissioning of the chargers and the load management system shall be witnessed by Calder & Voss Engineering. Commissioning certificates are to be included in the operation and maintenance manual.\n\n5. Approval\n\n5.1 Approved by Sasha Morel, Client Representative, Eastbrook Living Housing Association, on 3 March 2026.\n\n5.2 Instructed to Arden Services by Halvern Build on 4 March 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-016",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-CO-004",
+    "title": "Change Order 004 – Window Frame Colour (Dual Colour)",
+    "type": "change-order",
+    "trade": "windows",
+    "date": "2026-06-18",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Change Order ALD-CO-004 – Window and Balcony Door Frame Colour\nAldermoor Court. Issued 18 June 2026 by Priya Nandakumar (Halvern Build Ltd).\n\n1. Reference\n\n1.1 ALD-SPEC-0450 Rev B clause 2.2 (finish of frames, sashes, sills and flashings).\n1.2 Progress Meeting No. 9, item 9.4, 15 June 2026.\n\n2. Description of change\n\n2.1 The frame finish of all 196 windows and 48 balcony doors is changed from RAL 7016 Anthracite Grey satin to both faces, to a dual-colour finish: external face RAL 7022 Umbra Grey matt and internal face RAL 9016 Traffic White satin.\n\n2.2 External pressed aluminium sills, sill end caps and head flashings are changed to RAL 7022 Umbra Grey matt to match the external frame colour.\n\n2.3 Powder coating remains Qualicoat Class 2, minimum 60 microns, as specified.\n\n2.4 The reason for the change is the Client's review of brick slip sample panels on 9 June 2026: the specified anthracite frames were considered too dark against the Eastbrook Buff brick slips and too heavy inside the apartments."
+      },
+      {
+        "number": 2,
+        "text": "3. Cost\n\n3.1 Velto Windows quotation VW-Q-2611 dated 17 June 2026: dual-colour surcharge on 244 units, £15,600; sills and flashings recoloured, £1,400; revised colour samples and shop drawing amendments, £1,400. Total addition to the contract sum: £18,400.\n\n4. Programme\n\n4.1 Velto Windows confirms no change to the 10-week manufacturing lead time, provided the instruction is received by 26 June 2026. No impact on the completion date.\n\n4.2 Colour samples on aluminium in both colours, together with revised shop drawings showing the dual-colour build-up of the frames, sashes and beads, shall be submitted by Velto Windows within 2 weeks of the instruction for approval by Okafor Lind Architects.\n\n4.3 ALD-SPEC-0450 clause 2.2 is to be read as amended by this change order. All other requirements of the specification, including the finish standard and film thickness, remain unchanged.\n\n5. Approval\n\n5.1 Approved by Sasha Morel, Client Representative, Eastbrook Living Housing Association, on 22 June 2026.\n\n5.2 Instructed to Velto Windows on 23 June 2026. Tomasz Wren (Velto Windows) confirmed receipt on 23 June and that the facade mock-up window will be supplied in the new colours."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-017",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-CO-006",
+    "title": "Change Order 006 – Enlarged Roof PV Array",
+    "type": "change-order",
+    "trade": "roofing",
+    "date": "2026-08-20",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Change Order ALD-CO-006 – Enlarged Roof Photovoltaic Array\nAldermoor Court. Issued 20 August 2026 by Priya Nandakumar (Halvern Build Ltd).\n\n1. Description of change\n\n1.1 Following the request at Progress Meeting No. 9 (item 9.9), the roof-mounted photovoltaic array is increased from 24 panels to 36 panels of 430 Wp each, raising the installed capacity from 10.3 kWp to 15.5 kWp.\n\n1.2 The additional 12 panels are installed on ballasted east-west frames on the main roof between gridlines E and H, clear of the air source heat pump enclosure and the fall-arrest zone. No penetrations through the roof waterproofing are required; protection pads are to be laid under all frames on the cap sheet.\n\n1.3 The inverter is upgraded from 10 kW to 15 kW. The DC cable route uses the existing riser in core B.\n\n1.4 Brightmere Structural (Jonas Brightwell) has confirmed that the roof slab, at 275 mm, has capacity for the additional ballast load of 0.45 kN/m² in the array zone, including snow drift.\n\n2. Cost and programme\n\n2.1 Additional panels, frames, ballast and inverter upgrade: £14,250. No impact on the completion date; roof PV installation remains programmed after the roof waterproofing is complete.\n\n3. Approval\n\n3.1 Approved by Sasha Morel, Client Representative, on 27 August 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-018",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-CO-007",
+    "title": "Change Order 007 – Acoustic Glazing to East Elevation",
+    "type": "change-order",
+    "trade": "windows",
+    "date": "2026-09-24",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Change Order ALD-CO-007 – Acoustic Glazing to East Elevation (Aldermoor Road)\nAldermoor Court. Issued 24 September 2026 by Priya Nandakumar (Halvern Build Ltd).\n\n1. Reference\n\n1.1 ALD-SPEC-0450 Rev B clause 1.7 (acoustic performance).\n1.2 Design Team Meeting No. 17, item 17.3, 10 September 2026.\n1.3 Updated acoustic assessment, issued after confirmation of the new bus route on Aldermoor Road.\n\n2. Description of change\n\n2.1 The windows and balcony doors on the east elevation facing Aldermoor Road, at Levels 1, 2 and 3, are upgraded to acoustic laminated double glazing. This affects 18 windows and 6 balcony doors (24 units).\n\n2.2 Glazing make-up for the affected units: 10.8 mm acoustic laminated outer pane, 16 mm argon-filled cavity with warm edge spacer, 6 mm toughened inner pane with low-emissivity coating.\n\n2.3 Required performance: sound reduction Rw+Ctr 36 dB in the closed position, tested to EN ISO 10140. The whole-window thermal transmittance remains Uw 1.2 W/m²K or better, and the g-value remains not more than 0.50 as required for the east elevation.\n\n2.4 Levels 4 and 5 on the east elevation and all other elevations are unchanged."
+      },
+      {
+        "number": 2,
+        "text": "3. Cost\n\n3.1 Velto Windows quotation VW-Q-2689 dated 21 September 2026: acoustic laminated glazing to 24 units, £8,650; revised shop drawings and acoustic test evidence, £1,200. Total addition to the contract sum: £9,850.\n\n4. Programme\n\n4.1 The acoustic units have a lead time one week longer than standard units. Velto Windows will include them in the first production batch (Levels 1 and 2) so there is no impact on the window installation start or the completion date.\n\n4.2 Each acoustic unit shall be labelled on the frame with its window reference and glazing make-up so that it is installed in the correct opening. Velto Windows to provide the acoustic test report for the 10.8/16/6 make-up with the shop drawings.\n\n4.3 Site acoustic testing of two completed apartments on the east elevation will be carried out before handover, as required by the updated acoustic assessment.\n\n5. Approval\n\n5.1 Approved by Sasha Morel, Client Representative, Eastbrook Living Housing Association, on 1 October 2026.\n\n5.2 Instructed to Velto Windows on 2 October 2026. Tomasz Wren confirmed that the frame colours remain as ALD-CO-004 (RAL 7022 external, RAL 9016 internal)."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-019",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-RFI-017",
+    "title": "RFI 017 – Basement Wall Concrete: Water-Cement Ratio and Admixture",
+    "type": "rfi",
+    "trade": "concrete",
+    "date": "2026-02-11",
+    "author": "Mateus Ferreira (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Request for Information ALD-RFI-017\nSubject: Basement wall concrete – water-cement ratio and crystalline admixture\nRaised by: Mateus Ferreira, Concrete Foreman (Halvern Build Ltd), 11 February 2026\nAddressed to: Jonas Brightwell (Brightmere Structural)\nCopy: Dana Whitlock, Priya Nandakumar (Halvern Build); Carys Doyle (Greystone Ready-Mix)\nPriority: Urgent – first basement wall pour (W1) planned for 3 March 2026\n\nBackground: ALD-SPEC-0310 Rev C clause 2.3 requires the basement retaining walls to be C32/40 with a maximum water-cement ratio of 0.45 and a minimum binder content of 340 kg/m³, with a crystalline waterproofing admixture to clause 4.2. Greystone Ready-Mix has submitted mix GRM-3240-XD3-WP (data sheet ALD-DS-GRM-3240) with a free water-cement ratio of 0.42 and 360 kg/m³ of CEM III/A, with AquaLock CX at 1.0% by mass of binder.\n\nQuestions:\n(a) Please confirm that the maximum water-cement ratio of 0.45 is calculated on the total cementitious content, including the slag in the CEM III/A.\n(b) Greystone has suggested that, because the crystalline admixture reduces permeability, the water-cement ratio could be relaxed to 0.50 to improve pumpability in the 350 mm walls. Is this acceptable?\n(c) May superplasticiser be added on site to restore consistence if a truck arrives stiff?"
+      },
+      {
+        "number": 2,
+        "text": "Response from Jonas Brightwell (Brightmere Structural), 16 February 2026:\n\n(a) Confirmed. The water-cement ratio in clause 2.3 is the ratio of free water to total cementitious content, as defined in clause 1.5. The slag in CEM III/A counts in full.\n\n(b) Not accepted. The maximum water-cement ratio of 0.45 is governed by the XD3 and XA2 exposure classes and is not relaxed by the use of the crystalline admixture (see clause 4.2). The submitted mix GRM-3240-XD3-WP, at a water-cement ratio of 0.42, is accepted for the basement walls. Pumpability should be achieved with the superplasticiser dosage at the plant, targeting consistence class S4.\n\n(c) Superplasticiser may be added on site only by Greystone's technician, once per truck at most, with the dose recorded on the delivery ticket, in accordance with clause 5.3. No water shall be added on site under any circumstances.\n\nAdditional note: Please ensure the 7-day minimum curing period in clause 5.4 is applied to all basement walls; wall formwork is to stay in place for at least 3 days.\n\nStatus: Closed, 16 February 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-020",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-RFI-021",
+    "title": "RFI 021 – Service Penetrations Through Basement Walls",
+    "type": "rfi",
+    "trade": "mep",
+    "date": "2026-03-04",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Request for Information ALD-RFI-021\nSubject: Service penetrations through basement walls W5 to W7\nRaised by: Dana Whitlock, Site Manager (Halvern Build Ltd), 4 March 2026\nAddressed to: Hugo Calder (Calder & Voss Engineering); Jonas Brightwell (Brightmere Structural)\nPriority: Urgent – wall W5 pour planned for 25 March 2026\n\nBackground: ALD-SPEC-0310 clause 3.4 and ALD-SPEC-0510 clause 7.1 require all services entering the basement to pass through cast-in puddle-flange sleeves. The MEP drawings show the incoming water main, the sprinkler supply, the pumped sump rising mains, the LV supply ducts and telecom ducts entering through walls W5, W6 and W7 (east and south walls), but no sleeve detail or sleeve schedule has been issued.\n\nQuestions:\n(a) Please provide the sleeve detail, including material and waterproofing.\n(b) Please confirm the minimum distances from construction joints and between sleeves.\n(c) Please issue the sleeve schedule with sizes and levels."
+      },
+      {
+        "number": 2,
+        "text": "Joint response from Hugo Calder (Calder & Voss Engineering) and Jonas Brightwell (Brightmere Structural), 9 March 2026:\n\n(a) Use cast-in grade 316 stainless steel puddle-flange sleeves, with the flange welded all round at mid-depth of the wall, and a hydrophilic collar fitted to the sleeve on the external side of the flange. The annulus between each service and its sleeve is to be sealed with a compression link seal rated for 2 bar water pressure. See sketch SK-21.\n\n(b) Sleeves shall be at least 150 mm clear of any construction joint and at least 300 mm apart centre to centre. Openings larger than 150 mm diameter require two additional U-bars each side, as shown on SK-21. Sleeves must be fixed to the reinforcement cage and checked at the pre-pour inspection; sleeves will not be accepted if they are packed or wedged against the formwork only.\n\n(c) Sleeve schedule: 14 sleeves, S-01 to S-14, as listed on SK-21 rev A. Sleeves S-01 to S-09 are in walls W5 and W6 (east); S-10 to S-14 are in wall W7 (south), serving the plant room. Sleeve S-14 (150 mm, LV duct) is at 1,250 mm above the finished car park level.\n\nStatus: Closed, 9 March 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-021",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-RFI-029",
+    "title": "RFI 029 – Facade Bracket Fixings at Slab Edges",
+    "type": "rfi",
+    "trade": "structure",
+    "date": "2026-07-28",
+    "author": "Ines Barros (Northpane Facades)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Request for Information ALD-RFI-029\nSubject: Facade bracket fixings into slab edges – edge distance and reinforcement clash\nRaised by: Ines Barros, Package Manager (Northpane Facades), 28 July 2026\nAddressed to: Jonas Brightwell (Brightmere Structural)\nCopy: Lena Okafor (Okafor Lind Architects); Priya Nandakumar, Dana Whitlock (Halvern Build)\n\nBackground: ALD-SPEC-0420 clause 2.3 requires facade brackets to be fixed to the slab edges with a minimum edge distance of 100 mm. Northpane's bracket design places the anchors 75 mm to 90 mm from the slab edge on the north and east elevations because of the SFS head track and the deflection head. Scanning of the Level 1 slab edge also shows edge U-bars at 150 mm centres, which will be hit by post-drilled anchors in many locations.\n\nQuestions:\n(a) Can the edge distance be reduced to 75 mm for post-installed anchors?\n(b) As an alternative, will the Engineer accept cast-in channels in the slab edges for the remaining slabs?"
+      },
+      {
+        "number": 2,
+        "text": "Response from Jonas Brightwell (Brightmere Structural), 4 August 2026:\n\n(a) Not accepted. The 100 mm minimum edge distance in ALD-SPEC-0420 clause 2.3 is required for the design anchor capacity. For the Level 1 slab, which is already cast, Northpane shall use post-installed anchors at 100 mm minimum edge distance, adjusting the bracket design as necessary, and shall locate the edge U-bars by scanning before drilling. Any bar cut by drilling must be reported to the Engineer.\n\n(b) Accepted. From the Level 2 slab up to and including the roof slab, Anchorline AC-40 cast-in channels shall be installed in the slab edges at the positions shown on Northpane's set-out drawing NPF-ALD-210. The channel shall be fixed to the edge reinforcement with tie wire and nailing plates, with the channel lips flush with the slab edge formwork. Position tolerance ±10 mm in line with ALD-SPEC-0310 clause 7.2.\n\nThe channels and their positions shall be checked at the pre-pour inspection of every slab. Northpane shall supply the channels to site at least one week before the relevant slab reinforcement is fixed.\n\nStatus: Closed, 4 August 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-022",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-RFI-033",
+    "title": "RFI 033 – Window Sill Depth and Membrane Interface",
+    "type": "rfi",
+    "trade": "windows",
+    "date": "2026-10-13",
+    "author": "Tomasz Wren (Velto Windows)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Request for Information ALD-RFI-033\nSubject: Window sill depth and external membrane interface with the brick slip rainscreen\nRaised by: Tomasz Wren, Technical Sales Manager (Velto Windows), 13 October 2026\nAddressed to: Lena Okafor (Okafor Lind Architects)\nCopy: Ines Barros (Northpane Facades); Dana Whitlock (Halvern Build)\n\nBackground: ALD-SPEC-0450 clause 2.6 specifies a 225 mm pressed aluminium sill with a minimum 25 mm drip projection beyond the face of the brick slip cladding. With 160 mm insulation (ALD-SPEC-0420 Rev B), a 40 mm cavity, rails and the brick slip panel, the cladding face is approximately 255 mm in front of the window frame. A 225 mm sill therefore finishes behind the cladding face.\n\nQuestions:\n(a) Please confirm the required sill depth.\n(b) Please confirm how the external EPDM membrane at the sill should lap onto the breather membrane.\n\nResponse from Lena Okafor (Okafor Lind Architects), 20 October 2026:\n\n(a) Increase the sill depth to 270 mm for all window and balcony door types, giving a drip projection of approximately 45 mm beyond the brick slip face. Sills to have welded end caps and to be finished RAL 7022 Umbra Grey matt as ALD-CO-004. No change to the contract sum, as agreed with Velto under the shop drawing review.\n\n(b) The external vapour-open EPDM membrane shall lap a minimum of 100 mm onto the breather membrane, bonded with the membrane manufacturer's adhesive, and shall be turned up at the sill ends to form a tray. The detail shall be demonstrated on the facade mock-up before the mock-up is approved.\n\nStatus: Closed, 20 October 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-023",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-DS-GRM-3240",
+    "title": "Greystone Mix Data Sheet – GRM-3240-XD3-WP Basement Wall Mix",
+    "type": "data-sheet",
+    "trade": "concrete",
+    "date": "2026-02-18",
+    "author": "Carys Doyle (Greystone Ready-Mix)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Greystone Ready-Mix – Mix Design Data Sheet\nMix reference: GRM-3240-XD3-WP. Project: Aldermoor Court (Halvern Build Ltd). Element: basement retaining walls. Issue 2, 18 February 2026, incorporating the Engineer's response to ALD-RFI-017.\n\nSpecification: designed concrete to EN 206 and the national complementary standard.\nStrength class: C32/40.\nExposure classes: XC4, XD3, XA2.\nDesign chemical class for the ground: DS-3 (sulfates), as stated in ALD-SPEC-0310.\n\nConstituents per m³:\nCEM III/A 42.5N (approximately 55% ground granulated blast-furnace slag): 360 kg.\nFree water: 151 litres.\nFree water-cement ratio: 0.42 (specified maximum 0.45).\nFine aggregate (0/4 mm natural sand): 760 kg.\nCoarse aggregate (4/20 mm crushed limestone): 1,010 kg.\nCrystalline waterproofing admixture AquaLock CX: 3.6 kg (1.0% by mass of binder).\nPolycarboxylate superplasticiser: 0.9% by mass of binder (adjusted at the plant to achieve the target consistence).\n\nFresh properties: consistence class S4 (target slump 180 mm, acceptable range 160 to 210 mm); maximum aggregate size 20 mm; chloride class Cl 0,40; target air content less than 2%."
+      },
+      {
+        "number": 2,
+        "text": "Hardened properties (from trial mixes, December 2025): mean 7-day cube strength 31.5 N/mm²; mean 28-day cube strength 52.0 N/mm² against a characteristic cube strength of 40 N/mm². Water penetration depth under pressure to EN 12390-8: 11 mm mean (control mix without admixture: 24 mm).\n\nSetting and placing: initial set approximately 6 to 7 hours at 10°C. The crystalline admixture extends the setting time by 1 to 2 hours compared with the same mix without admixture; allow for this when planning striking times and finishing in cold weather. Maximum time from batching to discharge: 2 hours.\n\nDelivery: delivery tickets will show the mix reference GRM-3240-XD3-WP, the admixture batch number and dose, and the time of batching. Trucks without the admixture shown on the ticket must be rejected.\n\nSite additions: superplasticiser may be added on site only by a Greystone technician, once per truck at most, with the dose recorded on the delivery ticket. No water may be added on site.\n\nContacts: Carys Doyle, Technical Manager, tel. 0161 555 0128, c.doyle@greystone-readymix.example. Orders desk tel. 0161 555 0120 (06:00 to 18:00 Monday to Friday, 06:00 to 12:00 Saturday). Minimum notice for pours above 100 m³: 72 hours."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-024",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-DS-AQL-CX",
+    "title": "Product Data Sheet – AquaLock CX Crystalline Waterproofing Admixture",
+    "type": "data-sheet",
+    "trade": "concrete",
+    "date": "2025-10-20",
+    "author": "Technical Department (Dorrance Construction Chemicals)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "AquaLock CX – Crystalline Waterproofing Admixture for Concrete\nDorrance Construction Chemicals. Product data sheet, edition 10/2025.\n\nDescription: AquaLock CX is a dry powder admixture that reacts with water and the by-products of cement hydration to form insoluble crystals within the capillary pores and micro-cracks of concrete. The crystals block the passage of water under hydrostatic pressure while allowing the concrete to breathe.\n\nUses: basements and below-ground structures, water-retaining structures, car park decks, tunnels, and foundations in aggressive ground. Suitable for structurally integral (Type B) waterproofing systems.\n\nConformity: EN 934-2, Table 9 (water-resisting admixture). Chloride-free.\n\nDosage: 0.8% to 1.2% by mass of total binder; 1.0% is recommended for most applications. The admixture shall be added at the batching plant, either in dissolvable bags with the aggregates or as a slurry. Not to be added on site.\n\nSelf-sealing: in the presence of moisture, the crystalline reaction can seal static, non-moving cracks up to 0.4 mm wide. Moving cracks and joints must be detailed with waterbars or injection systems. The admixture does not replace the need for correct joint detailing."
+      },
+      {
+        "number": 2,
+        "text": "Effects on fresh concrete: setting time may be extended by 1 to 2 hours, depending on temperature and cement type. There is no significant effect on workability at the recommended dosage. Compatible with CEM I, CEM II and CEM III cements and with polycarboxylate superplasticisers.\n\nPerformance: reduction in water penetration depth under pressure (EN 12390-8) typically 50% or more compared with a control mix of the same constituents.\n\nCuring: normal curing is required. Moist curing for at least 7 days improves the development of the crystalline structure.\n\nPackaging and storage: 6 kg dissolvable bags, 36 kg cartons. Store in dry conditions, off the ground, at 5°C to 35°C. Shelf life 12 months in unopened packaging.\n\nHealth and safety: the powder is alkaline. Wear gloves, eye protection and a dust mask when handling. Refer to the safety data sheet.\n\nTechnical support: Dorrance Construction Chemicals, technical helpline 0161 555 0230, technical@dorrance-chemicals.example."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-025",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-DS-VLT-AX70",
+    "title": "Velto AX70 Aluminium Window System – Technical Data Sheet",
+    "type": "data-sheet",
+    "trade": "windows",
+    "date": "2026-01-30",
+    "author": "Tomasz Wren (Velto Windows)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Velto AX70 – Thermally Broken Aluminium Window and Door System\nVelto Windows. Technical data sheet, January 2026, issued for Aldermoor Court.\n\nSystem: 70 mm frame depth, three-chamber profile with 34 mm polyamide thermal break and centre gasket. Opening types: tilt-and-turn, side-hung, fixed lights and tilt-and-turn balcony doors. Maximum sash size 1,400 x 2,400 mm.\n\nThermal performance (EN ISO 10077-2):\nFrame Uf: 1.5 W/m²K (typical frame/sash combination).\nWhole window Uw with double glazing Ug 1.0 W/m²K and warm edge spacer: 1.1 W/m²K for the reference window 1,230 x 1,480 mm.\nWhole window Uw with triple glazing Ug 0.6 W/m²K: 0.85 W/m²K.\n\nWeather performance (tested to EN 14351-1):\nAir permeability: Class 4 (EN 12207).\nWatertightness: Class E750 (EN 12208).\nResistance to wind load: Class C4 (EN 12210).\n\nAcoustic performance (EN ISO 10140): standard double glazing 4/16/4 Rw+Ctr 29 dB; 6/16/4 Rw+Ctr 31 dB; acoustic laminated 10.8/16/6 Rw+Ctr 36 dB; maximum tested system performance Rw+Ctr 40 dB."
+      },
+      {
+        "number": 2,
+        "text": "Finishes: polyester powder coating to Qualicoat Class 2, any RAL colour, satin or matt. Dual-colour finishes (different colours inside and outside) are available on all profiles at a surcharge. Anodised finishes available on request.\n\nSecurity: tested to EN 1627 resistance class RC2 with laminated glazing and lockable handles.\n\nHardware: concealed hinges, maximum sash weight 130 kg; child-safe restrictors limiting opening to 100 mm available on all opening types.\n\nInstallation: fixings by stainless steel brackets at maximum 600 mm centres; perimeter gap 10 to 15 mm; vapour-tight internal and vapour-open external EPDM membranes bonded to the frame in the factory where requested.\n\nLead time: 8 to 10 weeks from approval of shop drawings and colour, depending on finish. Dual-colour orders: 10 weeks. Delivery in floor-by-floor batches by arrangement.\n\nContact: Tomasz Wren, Technical Sales Manager, Velto Windows, tel. 0161 555 0193, t.wren@velto-windows.example."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-026",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-DS-TRF-35",
+    "title": "Thermarock FS35 Rainscreen Insulation Slab – Data Sheet",
+    "type": "data-sheet",
+    "trade": "facade",
+    "date": "2025-12-15",
+    "author": "Ines Barros (Northpane Facades)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Thermarock FS35 – Stone Wool Rainscreen Insulation Slab\nProduct data sheet submitted by Northpane Facades for Aldermoor Court, 15 December 2025.\n\nDescription: rigid, water-repellent stone wool slab for ventilated rainscreen facades, with a black glass-fleece facing on the outer face. For use behind brick slip, metal, terracotta and fibre cement cladding.\n\nThermal conductivity (EN 12667, declared): λD 0.035 W/mK.\nThickness range: 50 mm to 200 mm. Thickness for Aldermoor Court: 160 mm, single layer.\nThermal resistance at 160 mm: RD 4.55 m²K/W.\nNominal density: 45 kg/m³.\n\nReaction to fire (EN 13501-1): Class A1, non-combustible (the facing does not affect classification).\nWater absorption: short term less than 1 kg/m² (EN 1609).\nWater vapour diffusion resistance factor μ: 1.\n\nDimensions: 1,200 x 600 mm slabs.\nFixing: minimum 2 non-combustible stainless steel insulation fixings per slab, with additional fixings at corners and openings as required by the wind load calculation. Slabs to be tightly butted with staggered joints; gaps over 5 mm to be filled with stone wool.\n\nStorage: store on site under cover, off the ground, in the original packaging. The slab may be exposed to rain during installation for up to 6 weeks without loss of performance, provided it is allowed to dry before the cladding closes the cavity."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-027",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-INS-SE-011",
+    "title": "Basement Watertightness Inspection Report",
+    "type": "inspection-report",
+    "trade": "groundworks",
+    "date": "2026-07-09",
+    "author": "Jonas Brightwell (Brightmere Structural)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Inspection Report ALD-INS-SE-011 – Basement Watertightness Inspection\nAldermoor Court. Inspected Thursday 9 July 2026, 10:00 to 12:30, by Jonas Brightwell (Brightmere Structural), accompanied by Dana Whitlock and Mateus Ferreira (Halvern Build Ltd).\n\nConditions: inspection carried out after 31 mm of rain on 7 and 8 July 2026. Groundwater in the monitoring standpipe on the north side was 3.9 m below ground level, approximately 0.7 m above the underside of the raft.\n\nScope: all internal faces of the basement retaining walls W1 to W8, construction joints, kicker joints, the visible areas of the raft, and all cast-in sleeves S-01 to S-14. The Type C cavity drain membranes in the plant room and cycle store are not yet installed.\n\nFinding 1 (action required): Damp patch approximately 0.6 m long at the vertical construction joint between walls W2 and W3 on the north wall (grid A/3), between 0.9 m and 1.5 m above the car park slab. The surface is wet to the touch but not dripping. This is not acceptable for a Grade 2 environment. Remedy: inject the joint through the pre-installed injection hose W3-H1 with polyurethane resin, followed by acrylic resin, by an approved specialist.\n\nFinding 2 (monitor): Hairline vertical crack in wall W6 (east), grid H/4, measured 0.15 mm wide, dry. Within the 0.2 mm crack width limit. The crystalline admixture is expected to seal static cracks of this size if moisture reaches them. Monitor at each inspection.\n\nFinding 3 (action required): Damp staining around sleeve S-14 (LV duct) in wall W7, plant room. The hydrophilic collar appears not to be fully bonded to the sleeve. Remedy: resin injection around the sleeve from the internal face, and sealing of the annulus with a link seal as required by ALD-RFI-021."
+      },
+      {
+        "number": 2,
+        "text": "Finding 4 (observation): Kicker joints along walls W1, W4, W5 and W8 were dry. The car park slab had standing rainwater from the ramp opening only, not from the structure.\n\nConclusion: The basement is broadly performing as designed. Subject to the remedial injection of the W2/W3 joint and sleeve S-14, the car park will achieve the Grade 2 environment required by ALD-SPEC-0310 clause 3.1. A re-inspection is required after the remedial work and the next significant rainfall.\n\nClose-out record (added 30 July 2026): Remedial injection of the W2/W3 joint and sleeve S-14 was carried out by Sealtech Injection Services on Wednesday 15 July 2026. Re-inspected on 29 July 2026 after 18 mm of rain on 27 and 28 July: both locations dry. Findings 1 and 3 closed. Finding 2 remains open for monitoring; the crack in W6 was unchanged and dry.\n\nSigned: Jonas Brightwell, Associate Director, Brightmere Structural."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-028",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-INS-BC-005",
+    "title": "Building Control Site Inspection – Basement Car Park and Plant Room",
+    "type": "inspection-report",
+    "trade": "general",
+    "date": "2026-09-22",
+    "author": "Rui Tanaka (Eastbrook Building Control)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Eastbrook Building Control – Site Inspection Record\nReference: ALD-INS-BC-005. Site: Aldermoor Court, 14 Aldermoor Road, Eastbrook. Inspection date: Tuesday 22 September 2026. Inspector: Rui Tanaka, Building Control Surveyor. Met on site by Dana Whitlock (Halvern Build Ltd).\n\nStage inspected: basement car park and plant room – fire safety, ventilation and drainage, before ceiling services are closed in.\n\nItems inspected:\nCar park jet fan ventilation installation (6 jet fans, 2 extract fans);\nSprinkler installation in the car park, including the valve set in the plant room;\nFire-stopping of service penetrations through the plant room and cycle store enclosure walls;\nSlot drains and petrol interceptor access covers;\nProtected lobbies to cores A and B at basement level.\n\nDefect D1 (must be resolved): Three service penetrations (two cable trays and one 110 mm drainage pipe) through the 120-minute plant room wall into the car park are not fire-stopped. The penetrations must be sealed with a tested fire-stopping system appropriate to the service and the wall, and labelled. This defect must be closed before the next inspection.\n\nObservation O1: Jet fan JF-03 is mounted 300 mm from a sprinkler head; confirm with the sprinkler designer that the discharge pattern is not obstructed.\n\nObservation O2: The commissioning certificates for the car park ventilation, including the CO and NO2 detection set points, must be provided before the completion inspection."
+      },
+      {
+        "number": 2,
+        "text": "Observation O3: Petrol interceptor access covers are installed and the high-level alarm is wired; testing of the alarm to be witnessed at commissioning.\n\nOutcome: The work inspected is satisfactory subject to the closure of defect D1. A re-inspection of the plant room penetrations has been booked for Tuesday 13 October 2026.\n\nNext inspections planned: cavity barrier sample inspection at Level 1 and one upper level once the facade installation begins; fire doors and compartmentation at Level 1; completion inspection (date to be agreed with the Contractor, currently programmed for June 2027).\n\nRe-inspection note (13 October 2026): Defect D1 closed. All three penetrations fire-stopped with a tested intumescent collar and batt system, labelled with the installer's details and the system reference. Photographic record received from Halvern Build. Observation O1 confirmed acceptable by the sprinkler designer in writing on 7 October.\n\nRui Tanaka, Building Control Surveyor, Eastbrook Building Control. Tel. 0161 555 0105, r.tanaka@eastbrook-bc.example."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-029",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-INS-HS-010",
+    "title": "Monthly Health and Safety Audit – October 2026",
+    "type": "inspection-report",
+    "trade": "general",
+    "date": "2026-10-15",
+    "author": "Ewa Lindqvist (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Health and Safety Audit Report ALD-INS-HS-010 – October 2026\nAldermoor Court. Audit carried out on Thursday 15 October 2026 by Ewa Lindqvist, H&S Advisor (Halvern Build Ltd), accompanied by Dana Whitlock.\n\nOverall score: 91% (September: 87%). Rating: Good.\n\nPersons on site at the time of the audit: 43. Inductions checked: 12 operatives selected at random, all inducted and holding valid skills cards.\n\nAreas audited: site access and welfare, crane and lifting operations, scaffold, working at height on Levels 2 and 3, the facade mock-up area, the basement, hot works, COSHH and housekeeping.\n\nGood practice noted: lifting plans in place and briefed for all crane lifts; exclusion zones below the Level 3 deck well managed; the basement is clean and well lit; the concrete gang's pour briefings are thorough and recorded.\n\nFindings:\nF1 (high): Gap of approximately 1.2 m in the edge protection on Level 3, east edge, at grid H/5, where a barrier had been removed for a crane lift and not replaced. Barrier reinstated during the audit. Action: Kelso Formwork supervisor to brief the gang on the permit to remove edge protection. Owner: Dana Whitlock. Due: 16 October 2026."
+      },
+      {
+        "number": 2,
+        "text": "F2 (medium): Scaffold inspection tags on the south elevation, lift 4, were out of date (last inspection more than 7 days ago). Action: scaffold contractor to inspect and re-tag. Owner: Dana Whitlock. Due: 19 October 2026.\n\nF3 (medium): Poor housekeeping on Level 2: off-cuts of timber and banding left in walkways near core A. Action: daily end-of-shift clean-up by each trade to be enforced; housekeeping included in the daily briefing. Owner: Mateus Ferreira. Due: immediate.\n\nF4 (low): Two fire extinguishers in the Level 1 fire point were missing inspection labels. Action: replace and label. Owner: site administrator. Due: 22 October 2026.\n\nF5 (low): COSHH assessment for the brick slip mortar used on the facade mock-up not on file. Action: Northpane to provide. Owner: Ines Barros. Due: 22 October 2026.\n\nSummary: The site is well run. The main risk for the next period is working at height on Levels 4 and 5 during slab construction, combined with shorter daylight hours. Lighting for the deck and for access routes must be checked before 07:30 starts in November.\n\nNext audit: mid-November 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-030",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-INS-SE-014",
+    "title": "Pre-Pour Inspection – Level 3 Slab",
+    "type": "inspection-report",
+    "trade": "structure",
+    "date": "2026-10-07",
+    "author": "Jonas Brightwell (Brightmere Structural)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Inspection Report ALD-INS-SE-014 – Pre-Pour Inspection, Level 3 Slab\nAldermoor Court. First inspection Tuesday 6 October 2026, 13:00 to 15:30; re-inspection Wednesday 7 October 2026, 14:30 to 15:30. Inspector: Jonas Brightwell (Brightmere Structural). Accompanied by Mateus Ferreira (Halvern Build) and the Brandt Rebar supervisor.\n\nElement: Level 3 flat slab, 250 mm, C32/40, bays A to G, approximately 205 m³. Drawings: ALD-S-2130 Rev D (bottom reinforcement), ALD-S-2131 Rev D (top reinforcement), ALD-S-2135 Rev B (punching shear reinforcement), Northpane set-out drawing NPF-ALD-210 Rev B (cast-in channels).\n\nFinding 1: Cover to the bottom reinforcement in bay D measured as low as 18 mm against the specified nominal cover of 25 mm, due to missing chair spacers over an area of approximately 12 m². Corrected on 6 October by adding spacers at 600 mm centres; cover re-measured at 25 to 28 mm on 7 October. Closed.\n\nFinding 2: Six shear links missing from the punching shear reinforcement around columns C4 and D4. Added on 7 October and checked. Closed.\n\nFinding 3: Two Anchorline AC-40 cast-in channels on the east slab edge at grid 7 were set out 40 mm from the position shown on NPF-ALD-210 Rev B, outside the ±10 mm tolerance. Repositioned and re-fixed on 7 October; checked by Northpane's setting-out engineer. Closed.\n\nFinding 4: Formwork, edge forms, back-propping on Levels 1 and 2, construction joint preparation and service openings checked and found acceptable.\n\nApproval: Approval to pour the Level 3 slab was given at 15:30 on Wednesday 7 October 2026. The slab was poured on Thursday 8 October 2026.\n\nSigned: Jonas Brightwell, Brightmere Structural."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-031",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-PRG-001",
+    "title": "Master Programme Summary – Rev 7",
+    "type": "schedule",
+    "trade": "general",
+    "date": "2026-11-04",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Aldermoor Court – Master Programme Summary, Rev 7\nIssued 4 November 2026 by Priya Nandakumar (Halvern Build Ltd). Supersedes Rev 6 dated 7 September 2026.\n\nReason for revision: Rev 7 incorporates the decisions of Progress Meeting No. 14 (2 November 2026): the Level 4 slab pour moved from 4 November to 18 November 2026 following the late delivery of table forms by Ridgeform Hire; the consequential changes to the Level 5 and roof slabs; and the revised deadline for facade mock-up approval.\n\nContract dates: start on site Monday 1 September 2025; practical completion Wednesday 30 June 2027 (unchanged). Christmas shutdown: Monday 21 December 2026 to Friday 1 January 2027; site reopens Monday 4 January 2027.\n\nCritical path: Level 4 slab, Level 5 slab, roof slab, roof waterproofing, building watertight, internal finishes on Levels 4 and 5, commissioning, completion. Total float on the critical path is now 6 working days, down from 15 working days in Rev 6. The facade is near-critical: brick slip panel delivery depends on mock-up approval by 20 November 2026.\n\nMitigation: an additional Saturday shift for reinforcement fixing on Levels 4 and 5; facade brackets, insulation and rails to start in January ahead of the brick slip panels, as permitted by ALD-SPEC-0420 clause 7.2."
+      },
+      {
+        "number": 2,
+        "text": "Key milestones (Rev 7 date; Rev 6 date in brackets where changed; status):\n\nM01 Start on site – 01 Sep 2025 – complete.\nM02 Bulk excavation complete – 12 Dec 2025 – complete.\nM03 Raft foundation complete (three bays) – 05 Feb 2026 – complete.\nM04 Basement walls complete – 29 May 2026 – complete.\nM05 Ground floor slab – 24 Jun 2026 – complete.\nM06 Level 1 slab – 30 Jul 2026 – complete.\nM07 Level 2 slab – 03 Sep 2026 – complete.\nM08 Level 3 slab – 08 Oct 2026 – complete.\nM09 Level 4 slab – 18 Nov 2026 (04 Nov 2026) – forecast.\nM10 Facade mock-up approval – 20 Nov 2026 (06 Nov 2026) – forecast.\nM11 Level 5 slab – 09 Dec 2026 (25 Nov 2026) – forecast.\nM12 Roof slab and topping out – 13 Jan 2027 (16 Dec 2026) – forecast.\nM13 Facade installation start (brackets, insulation, rails) – 11 Jan 2027 – forecast.\nM14 Window installation start – 18 Jan 2027 – forecast.\nM15 First brick slip panels on site – 25 Jan 2027 – forecast.\nM16 Roof waterproofing complete – 26 Feb 2027 – forecast.\nM17 Building watertight – 26 Mar 2027 – forecast.\nM18 Permanent power energised – 06 Apr 2027 – forecast.\nM19 MEP commissioning complete – 28 May 2027 – forecast.\nM20 Building control completion inspection – 14 Jun 2027 – forecast.\nM21 Practical completion – 30 Jun 2027 – contractual."
+      },
+      {
+        "number": 3,
+        "text": "Notes on the facade and window sequence:\n\nThe window installation follows the facade subcontractor floor by floor, starting at Level 1 on the north elevation, so that cavity barriers around openings are installed and inspected before each window is fixed. Velto Windows will begin production of the Level 1 and Level 2 windows on 30 November 2026, including the acoustic units for the east elevation (ALD-CO-007).\n\nNotes on the structure:\n\nSlab cycle from Level 4 onwards is three weeks per floor, using the Ridgeform table forms. Back-propping is maintained through two floors below each slab under construction. Concrete for the Level 4 slab (approximately 205 m³) is booked with Greystone Ready-Mix for 07:00 on 18 November.\n\nNotes on the basement:\n\nThe Type C cavity drain membranes in the plant room and cycle store are programmed for February 2027, after the plant room is cleared of stored materials. Basement fit-out of the car park (deck coating, line marking, EV chargers) is programmed for April and May 2027.\n\nRisks: (1) further slippage of mock-up approval; (2) winter weather affecting slab pours in December and January; (3) delivery of the upgraded EV sub-main; (4) labour availability over the Christmas period."
+      }
+    ]
+  },
+  {
+    "id": "doc-ald-032",
+    "projectId": "prj-aldermoor",
+    "code": "ALD-PRG-LA-46",
+    "title": "Three-Week Lookahead – w/c 9 November 2026",
+    "type": "schedule",
+    "trade": "structure",
+    "date": "2026-11-06",
+    "author": "Dana Whitlock (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Aldermoor Court – Three-Week Lookahead\nWeeks commencing 9, 16 and 23 November 2026. Issued Friday 6 November 2026 by Dana Whitlock, Site Manager. Aligned with Master Programme Rev 7.\n\nWeek 1 – w/c Monday 9 November 2026:\nMon 9 Nov: Ridgeform table forms delivered 07:30 (two loads); crane priority to unloading until 10:00.\nMon 9 to Thu 12 Nov: Kelso Formwork deck bays D to G; edge forms and edge protection.\nTue 10 to Fri 13 Nov: Brandt Rebar fixes bottom mat bays A to G.\nWed 11 to Fri 13 Nov: Anchorline AC-40 cast-in channels fixed to the Level 4 slab edges by Northpane per NPF-ALD-210 Rev C.\nFri 13 Nov: Northpane completes facade mock-up rectification; mock-up ready for re-inspection.\nSat 14 Nov: additional shift, Brandt Rebar, top mat bays A to C.\n\nWeek 2 – w/c Monday 16 November 2026:\nMon 16 Nov: Level 4 pre-pour inspection by Jonas Brightwell (Brightmere Structural), 13:00, including cast-in channels and punching shear links.\nTue 17 Nov: corrections from the pre-pour inspection; pour briefing 15:30.\nWed 18 Nov: Level 4 slab pour, approximately 205 m³, Greystone Ready-Mix, first truck 07:00, two pumps (one standby). Curing and protection as ALD-SPEC-0310 clause 5.4.\nFri 20 Nov: facade mock-up approval deadline – Lena Okafor (Architect) and Sasha Morel (Client Representative) to sign."
+      },
+      {
+        "number": 2,
+        "text": "Week 3 – w/c Monday 23 November 2026:\nMon 23 to Wed 25 Nov: Level 4 to Level 5 columns, reinforcement and formwork.\nThu 26 Nov: Level 4 to Level 5 columns poured (approximately 14 m³, C40/50).\nThu 26 Nov onwards: Level 5 falsework and decking, reusing the formwork struck from Level 3 once the Level 3 slab cubes reach the striking strength.\nMon 30 Nov: Progress Meeting No. 15, 10:00; Velto Windows begins production of Level 1 and Level 2 windows.\n\nDeliveries to book:\nBrandt Rebar: Level 5 reinforcement, 30 t, Tue 24 Nov.\nRidgeform Hire: additional props for back-propping, Fri 20 Nov.\nGreystone Ready-Mix: column concrete, Thu 26 Nov.\n\nConstraints and risks:\nFrost: if the forecast minimum for the night after the Level 4 pour is below 0°C, insulated blankets are required (40 blankets on hire, stored in container 3).\nDaylight: deck lighting to be checked each morning before 07:30.\nCrane: no lifts above 45 km/h wind speed; the pour does not depend on the crane.\n\nContacts for the Level 4 pour: Mateus Ferreira (concrete foreman) tel. 0161 555 0147; Greystone orders desk tel. 0161 555 0120; Owen Pratt (Ridgeform Hire) tel. 0161 555 0198."
+      }
+    ]
+  },
+  {
+    "id": "doc-kes-001",
+    "projectId": "prj-kestrel",
+    "code": "KES-SPEC-0710",
+    "title": "Internal Finishes Specification (Rev A)",
+    "type": "specification",
+    "trade": "finishes",
+    "date": "2026-03-02",
+    "author": "Felix Grant (Okafor Lind Architects)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "KES-SPEC-0710 Rev A – Internal Finishes\nKestrel Lane Townhouses, Plots 1 to 8, Kestrel Lane, Eastbrook.\n\n1 General\n\n1.1 Scope. Internal linings, decorations, floor finishes, joinery, kitchens and sanitaryware for eight two-storey, three-bedroom timber-frame townhouses.\n\n1.2 Linings. Party walls: two layers of 15 mm acoustic plasterboard on each side of the twin timber stud party wall, joints staggered, to achieve the separating wall acoustic performance. External walls and internal partitions: 12.5 mm plasterboard on the service void battens, taped and jointed, with a skim finish to the ground floor living areas.\n\n1.3 Ceilings. 15 mm fire-rated plasterboard to the ground floor ceiling; 12.5 mm plasterboard to the first floor ceiling below the cold roof, with a vapour control layer above.\n\n1.4 Decorations. Walls: mist coat and two coats of matt emulsion, colour Chalk White. Ceilings: two coats of matt emulsion, brilliant white. Woodwork: water-based satin, white.\n\n2 Floor finishes\n\n2.1 Kitchen, ground floor WC and bathroom: luxury vinyl tile (LVT), 2.5 mm, colour Washed Oak, on 6 mm plywood overlay.\n\n2.2 Living room, hall, stairs, landing and bedrooms: carpet, 80% wool, colour Heather, on 10 mm underlay."
+      },
+      {
+        "number": 2,
+        "text": "3 Kitchens\n\n3.1 Kitchens shall be supplied and installed by Fernhill Kitchens to the layouts on drawing KES-A-7101. Units: matt slab doors, colour Sage, with integrated handles. Worktops: 38 mm laminate, colour Fernhill Ash, with matching upstands. Splashback behind the hob: toughened glass, colour-backed white.\n\n3.2 Appliances: integrated induction hob, single oven, extractor hood ducted to outside through the MVHR-coordinated wall sleeve, integrated fridge-freezer and space for a washing machine.\n\n3.3 Kitchens shall be installed after plastering and the first coat of decoration, and before the floor finishes.\n\n4 Sanitaryware and tiling\n\n4.1 Bathroom: steel bath with glass screen and thermostatic shower, close-coupled WC, basin on vanity unit. Ground floor WC: compact WC and corner basin.\n\n4.2 Tiling: full-height ceramic wall tiles around the bath, 300 x 600 mm, colour Stone Grey; splashback tiles to basins.\n\n5 Doors and joinery\n\n5.1 Internal doors: white primed flush doors, FD30 to the kitchen and the stair enclosure as required by the fire strategy. Ironmongery satin stainless steel. Skirting and architraves: 18 mm MDF, pencil-round profile, painted."
+      }
+    ]
+  },
+  {
+    "id": "doc-kes-002",
+    "projectId": "prj-kestrel",
+    "code": "KES-RFI-008",
+    "title": "RFI 008 – MVHR Duct Routing Through First Floor Joists",
+    "type": "rfi",
+    "trade": "mep",
+    "date": "2026-07-21",
+    "author": "Callum Reyes (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Request for Information KES-RFI-008\nSubject: MVHR duct routing through first floor engineered joists\nRaised by: Callum Reyes, Site Manager (Halvern Build Ltd), 21 July 2026\nAddressed to: Brackenwood Timber Systems (timber frame designer); Calder & Voss Engineering\nPlots affected: all, worst case plots 3 and 6 (handed layouts)\n\nBackground: The MVHR layout drawing KES-M-5201 shows 150 mm rigid ducts running across the first floor joist zone from the plant cupboard to the living room and kitchen extract. The engineered I-joists are 245 mm deep. The joist manufacturer's tables allow holes up to 150 mm diameter only in the central zone of the web and not within 300 mm of the supports.\n\nQuestions:\n(a) Can 150 mm ducts pass through the joist webs at the positions shown?\n(b) If not, please advise an alternative route.\n\nResponse from Brackenwood Timber Systems and Calder & Voss Engineering, 24 July 2026:\n\n(a) No. At the positions shown the holes would fall within 300 mm of the supports at the stair trimmer. Holes through the webs are permitted only in the central zone and must not exceed 150 mm in diameter, which leaves no tolerance for the duct insulation.\n\n(b) Use 204 x 60 mm flat rectangular ducts through the joist webs, with factory-formed openings in the mid-span zone, as shown on revised drawing KES-M-5201 Rev C. Flow rates are unchanged; the MVHR unit fan setting is to be adjusted at commissioning to compensate for the higher duct resistance.\n\nStatus: Closed, 24 July 2026."
+      }
+    ]
+  },
+  {
+    "id": "doc-kes-003",
+    "projectId": "prj-kestrel",
+    "code": "KES-INS-004",
+    "title": "Airtightness Test Report – Plots 1 to 8",
+    "type": "inspection-report",
+    "trade": "general",
+    "date": "2026-10-02",
+    "author": "Theo Marsh (Airtest North)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Airtightness Test Report KES-INS-004\nKestrel Lane Townhouses, Plots 1 to 8. Tested by Theo Marsh (Airtest North) on Thursday 24 September 2026; re-test of Plot 6 on Thursday 1 October 2026. Report issued 2 October 2026.\n\nMethod: building pressurisation test to EN ISO 9972, Method 3 (building envelope with intentional openings sealed), with test results expressed as air permeability at 50 Pa. MVHR terminals, extractor hood duct and soil vent pipe were temporarily sealed.\n\nDesign target: air permeability not exceeding 3.0 m³/(h·m²) at 50 Pa, as used in the energy calculations.\n\nResults (24 September 2026):\nPlot 1: 2.38. Pass.\nPlot 2: 2.55. Pass.\nPlot 3: 2.41. Pass.\nPlot 4: 2.62. Pass.\nPlot 5: 2.47. Pass.\nPlot 6: 3.62. Fail.\nPlot 7: 2.29. Pass.\nPlot 8: 2.70. Pass."
+      },
+      {
+        "number": 2,
+        "text": "Plot 6 investigation: Smoke testing during depressurisation identified leakage at the junction of the first floor zone with the external wall (around three joist ends where the airtightness membrane was cut for the MVHR flat ducts), around the soil vent pipe where it passes through the vapour control layer in the loft, and at an unsealed electrical back box on the party wall.\n\nRemedial work by Halvern Build on 28 and 29 September 2026: joist end penetrations sealed with airtightness tape and grommets; the soil vent pipe collar replaced; back box fitted with an airtight cover.\n\nRe-test of Plot 6 (1 October 2026): 2.71 m³/(h·m²) at 50 Pa. Pass.\n\nConclusion: All eight plots now meet the design air permeability of 3.0 m³/(h·m²) at 50 Pa. The results have been passed to the energy assessor for the as-built energy calculations.\n\nTheo Marsh, Airtest North, tel. 0161 555 0240, t.marsh@airtest-north.example."
+      }
+    ]
+  },
+  {
+    "id": "doc-kes-004",
+    "projectId": "prj-kestrel",
+    "code": "KES-MIN-011",
+    "title": "Progress Meeting No. 11 – Minutes",
+    "type": "meeting-minutes",
+    "trade": "general",
+    "date": "2026-10-12",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Kestrel Lane Townhouses – Progress Meeting No. 11\nMonday 12 October 2026, 14:00, Kestrel Lane site office.\n\nPresent: Aisha Kerr (Morrow Homes Partnership, Client Representative, AK); Priya Nandakumar (Halvern Build, PN); Callum Reyes (Halvern Build, Site Manager, CR); Felix Grant (Okafor Lind Architects, FG); Nadia Hollis (Fernhill Kitchens, NH).\n\n11.1 Health and safety. No incidents. Scaffold to plots 1 to 4 has been struck; plots 5 to 8 to be struck by 23 October.\n\n11.2 Progress. All plots are watertight. First fix is complete in all plots. Plastering is complete in plots 1 to 4 and will be complete in plots 5 to 8 by 6 November. Mist coat is complete in plots 1 to 4.\n\n11.3 Airtightness. CR reported that all eight plots have passed (report KES-INS-004). Plot 6 failed the first test at 3.62 and passed the re-test at 2.71 after the joist end penetrations and the soil vent pipe were sealed.\n\n11.4 Kitchens. NH confirmed that kitchens will be installed in two phases. Decision: Fernhill Kitchens will install kitchens in plots 1 to 4 from Monday 9 November 2026 and in plots 5 to 8 from Monday 23 November 2026, with each phase taking about two weeks including worktop templating and fitting. Halvern to provide clear, dry, plastered rooms with the first coat of decoration complete."
+      },
+      {
+        "number": 2,
+        "text": "11.5 Floor finishes. LVT and carpets to follow the kitchens: plots 1 to 4 from 30 November, plots 5 to 8 from 14 December. FG confirmed the LVT colour Washed Oak and carpet colour Heather are unchanged.\n\n11.6 External works. Driveways, paths and fencing from January 2027. AK asked for the show home landscaping (Plot 1) to be completed first. Agreed.\n\n11.7 Programme. PN confirmed practical completion remains Friday 26 February 2027 (Programme Rev 3).\n\n11.8 Actions.\nCR – issue the kitchen access plan to Fernhill – 19 October.\nNH – confirm worktop template dates for plots 1 to 4 – 23 October.\nFG – issue the snagging protocol – 2 November.\n\n11.9 Next meeting. Progress Meeting No. 12 on Monday 9 November 2026, 14:00."
+      }
+    ]
+  },
+  {
+    "id": "doc-kes-005",
+    "projectId": "prj-kestrel",
+    "code": "KES-PRG-001",
+    "title": "Programme Summary – Rev 3",
+    "type": "schedule",
+    "trade": "general",
+    "date": "2026-10-14",
+    "author": "Priya Nandakumar (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Kestrel Lane Townhouses – Programme Summary, Rev 3\nIssued 14 October 2026 by Priya Nandakumar (Halvern Build Ltd).\n\nContract dates: start on site Monday 3 November 2025; practical completion Friday 26 February 2027.\n\nKey milestones:\nFoundations and ground floor slabs complete – 20 Feb 2026 – complete.\nTimber frame erection (Brackenwood Timber Systems), all plots – 2 Mar to 15 May 2026 – complete.\nRoof coverings and windows – 18 May to 26 Jun 2026 – complete.\nFirst fix MEP – 6 Jul to 25 Sep 2026 – complete.\nAirtightness testing – 24 Sep 2026 (Plot 6 re-test 1 Oct 2026) – complete.\nPlastering – 28 Sep to 6 Nov 2026 – in progress.\nKitchens plots 1 to 4 (Fernhill Kitchens) – from 9 Nov 2026.\nKitchens plots 5 to 8 (Fernhill Kitchens) – from 23 Nov 2026.\nFloor finishes plots 1 to 4 – from 30 Nov 2026.\nFloor finishes plots 5 to 8 – from 14 Dec 2026.\nSecond fix MEP and air source heat pump commissioning – 30 Nov 2026 to 22 Jan 2027.\nExternal works (driveways, paths, fencing, landscaping) – 4 Jan to 12 Feb 2027.\nSnagging and client inspections – 25 Jan to 19 Feb 2027.\nPractical completion – 26 Feb 2027.\n\nChristmas shutdown: 21 December 2026 to 1 January 2027."
+      }
+    ]
+  },
+  {
+    "id": "doc-kes-006",
+    "projectId": "prj-kestrel",
+    "code": "KES-SD-2026-10-29",
+    "title": "Site Diary – 29 October 2026",
+    "type": "site-diary",
+    "trade": "finishes",
+    "date": "2026-10-29",
+    "author": "Callum Reyes (Halvern Build Ltd)",
+    "pages": [
+      {
+        "number": 1,
+        "text": "Site Diary – Kestrel Lane Townhouses\nThursday 29 October 2026. Recorded by Callum Reyes, Site Manager.\n\nWeather: dry, bright spells. Temperature 7°C at 07:30, 13°C at 13:00. Wind light, westerly.\n\nLabour on site: Halvern Build 3; plasterers 6; decorators 4; Arden Services electricians 3; plumbers 2; Fernhill Kitchens surveyor 1. Total 19.\n\nWorks progress: Plastering continued in plots 6 and 7; plot 5 complete. Decorators applied the mist coat in plots 5 and 6. Electricians completed the second fix preparation in plots 1 and 2. Plumbers set out the bathroom first fix alterations in plot 8 following the client's change to the bath position.\n\nFernhill Kitchens: Nadia Hollis's surveyor measured plots 1 to 4 to confirm the kitchen walls are within tolerance for the installation starting on 9 November. Plot 3 kitchen wall was found 12 mm out of plumb over 2.4 m; plasterer to dub out before the first coat of decoration.\n\nDeliveries: 2 pallets of plasterboard; decorating materials; 8 extractor hood wall sleeves.\n\nHealth and safety: Scaffold to plots 5 to 8 inspected and tagged; striking confirmed for 23 October completed on plots 5 and 6, plots 7 and 8 to be struck on Monday 2 November after the gutter repair on plot 8. No incidents."
+      }
+    ]
+  }
+]

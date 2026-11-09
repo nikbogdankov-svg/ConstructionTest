@@ -1,0 +1,730 @@
+[
+  {
+    "id": "ans-001",
+    "projectId": "prj-aldermoor",
+    "question": "What concrete class is specified for the basement walls?",
+    "keywords": [
+      "basement wall",
+      "concrete class",
+      "strength class",
+      "c32/40",
+      "exposure class",
+      "retaining wall",
+      "xd3",
+      "concrete grade",
+      "mix"
+    ],
+    "answer": "The basement retaining walls are specified as **C32/40** with exposure classes **XC4, XD3 and XA2**, a maximum water-cement ratio of 0.45 and a minimum binder content of 340 kg/m³. The mix must include a crystalline waterproofing admixture (AquaLock CX at 1.0% of binder). Greystone's approved mix is **GRM-3240-XD3-WP**.",
+    "citations": [
+      {
+        "documentId": "doc-ald-002",
+        "page": 2,
+        "quote": "Basement retaining walls (350 mm thick): strength class C32/40, exposure classes XC4, XD3 and XA2, maximum water-cement ratio 0.45, minimum binder content 340 kg/m³."
+      },
+      {
+        "documentId": "doc-ald-002",
+        "page": 3,
+        "quote": "The raft and basement wall concrete shall contain a crystalline waterproofing admixture, AquaLock CX or equal approved, dosed at 1.0% by mass of total binder"
+      },
+      {
+        "documentId": "doc-ald-023",
+        "page": 1,
+        "quote": "Mix reference: GRM-3240-XD3-WP. Project: Aldermoor Court (Halvern Build Ltd). Element: basement retaining walls."
+      }
+    ],
+    "followUps": [
+      "What is the maximum water-cement ratio for the basement wall concrete?",
+      "What waterproofing approach is used for the basement?",
+      "What are the curing requirements for the basement walls?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-002",
+    "projectId": "prj-aldermoor",
+    "question": "What is the maximum water-cement ratio for the basement wall concrete?",
+    "keywords": [
+      "water-cement ratio",
+      "w/c",
+      "water cement",
+      "basement wall",
+      "0.45",
+      "binder",
+      "rfi-017",
+      "admixture"
+    ],
+    "answer": "**0.45 maximum**, calculated on the total cementitious content (the slag in CEM III/A counts in full). RFI-017 confirmed the limit is governed by the XD3/XA2 exposure classes and is **not relaxed** by the crystalline admixture. Greystone's approved mix runs at **0.42**.",
+    "citations": [
+      {
+        "documentId": "doc-ald-002",
+        "page": 1,
+        "quote": "Water-cement ratio means the ratio of free water to total cementitious content (cement plus any ground granulated blast-furnace slag or fly ash counted in accordance with EN 206)."
+      },
+      {
+        "documentId": "doc-ald-019",
+        "page": 2,
+        "quote": "The maximum water-cement ratio of 0.45 is governed by the XD3 and XA2 exposure classes and is not relaxed by the use of the crystalline admixture"
+      },
+      {
+        "documentId": "doc-ald-019",
+        "page": 1,
+        "quote": "Greystone Ready-Mix has submitted mix GRM-3240-XD3-WP (data sheet ALD-DS-GRM-3240) with a free water-cement ratio of 0.42 and 360 kg/m³ of CEM III/A"
+      }
+    ],
+    "followUps": [
+      "What concrete class is specified for the basement walls?",
+      "What are the curing requirements for the basement walls?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-003",
+    "projectId": "prj-aldermoor",
+    "question": "When is the level 4 slab pour?",
+    "keywords": [
+      "level 4",
+      "slab pour",
+      "l4",
+      "pour date",
+      "fourth floor",
+      "formwork delay",
+      "table forms",
+      "ridgeform",
+      "rescheduled"
+    ],
+    "answer": "The Level 4 slab pour is now **Wednesday 18 November 2026** (first truck 07:00, approx. 205 m³ in one pour). It moved from 4 November because Ridgeform Hire delayed the table forms for bays D–G to 9 November. Brightmere's pre-pour inspection is on **Monday 16 November**.",
+    "citations": [
+      {
+        "documentId": "doc-ald-014",
+        "page": 1,
+        "quote": "The Level 4 slab pour is rescheduled from Wednesday 4 November to Wednesday 18 November 2026, poured in one operation (approximately 205 m³, start 07:00)."
+      },
+      {
+        "documentId": "doc-ald-010",
+        "page": 1,
+        "quote": "the revised delivery date is Monday 9 November 2026. Without the tables, bays D to G cannot be decked, so the Level 4 slab pour planned for Wednesday 4 November is not achievable."
+      },
+      {
+        "documentId": "doc-ald-031",
+        "page": 2,
+        "quote": "M09 Level 4 slab – 18 Nov 2026 (04 Nov 2026) – forecast."
+      },
+      {
+        "documentId": "doc-ald-032",
+        "page": 1,
+        "quote": "Mon 16 Nov: Level 4 pre-pour inspection by Jonas Brightwell (Brightmere Structural), 13:00, including cast-in channels and punching shear links."
+      }
+    ],
+    "followUps": [
+      "When does the facade mock-up need to be approved?",
+      "When is practical completion?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-004",
+    "projectId": "prj-aldermoor",
+    "question": "What colour are the window frames?",
+    "keywords": [
+      "window frame",
+      "colour",
+      "color",
+      "ral",
+      "ral 7022",
+      "ral 7016",
+      "frame finish",
+      "co-004",
+      "dual colour"
+    ],
+    "answer": "The spec originally called for **RAL 7016 Anthracite Grey** on both faces, but this was superseded by change order **ALD-CO-004** (approved 22 June 2026). Frames are now dual colour:\n\n- **External:** RAL 7022 Umbra Grey matt (sills and flashings to match)\n- **Internal:** RAL 9016 Traffic White satin",
+    "citations": [
+      {
+        "documentId": "doc-ald-004",
+        "page": 2,
+        "quote": "Colour: RAL 7016 Anthracite Grey, satin (30% gloss), to both internal and external faces."
+      },
+      {
+        "documentId": "doc-ald-016",
+        "page": 1,
+        "quote": "is changed from RAL 7016 Anthracite Grey satin to both faces, to a dual-colour finish: external face RAL 7022 Umbra Grey matt and internal face RAL 9016 Traffic White satin."
+      },
+      {
+        "documentId": "doc-ald-012",
+        "page": 2,
+        "quote": "The window and balcony door frames will change from RAL 7016 to a dual-colour finish: RAL 7022 Umbra Grey matt to the external face and RAL 9016 Traffic White satin to the internal face."
+      },
+      {
+        "documentId": "doc-ald-016",
+        "page": 2,
+        "quote": "Approved by Sasha Morel, Client Representative, Eastbrook Living Housing Association, on 22 June 2026."
+      }
+    ],
+    "followUps": [
+      "What changed with the glazing on the east elevation?",
+      "What U-value is required for the windows?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-005",
+    "projectId": "prj-aldermoor",
+    "question": "When does the facade mock-up need to be approved?",
+    "keywords": [
+      "facade mock-up",
+      "mock-up",
+      "mockup",
+      "approval",
+      "deadline",
+      "brick slip",
+      "sign off",
+      "northpane"
+    ],
+    "answer": "By **Friday 20 November 2026** (moved from 6 November at Progress Meeting No. 14). Written approval is needed from both **Lena Okafor** (Architect) and **Sasha Morel** (Client Representative). Brick slip panel production can't start before approval and has an 8-week lead time, so any slip delays the first panels day for day.",
+    "citations": [
+      {
+        "documentId": "doc-ald-014",
+        "page": 2,
+        "quote": "The deadline for written approval of the facade mock-up is moved from 6 November to Friday 20 November 2026."
+      },
+      {
+        "documentId": "doc-ald-014",
+        "page": 2,
+        "quote": "brick slip panel production cannot start until written approval is received and the lead time is 8 weeks; any slip beyond 20 November delays the delivery of the first panels day for day."
+      },
+      {
+        "documentId": "doc-ald-003",
+        "page": 3,
+        "quote": "The mock-up must be approved in writing by both the Architect and the Client Representative before brick slip panel production is released."
+      }
+    ],
+    "followUps": [
+      "Who is the contact at Northpane Facades?",
+      "When is the level 4 slab pour?",
+      "What insulation is used in the facade?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-006",
+    "projectId": "prj-aldermoor",
+    "question": "Who is the contact at Northpane Facades?",
+    "keywords": [
+      "northpane",
+      "facade contact",
+      "ines barros",
+      "facade subcontractor",
+      "phone",
+      "email",
+      "contact"
+    ],
+    "answer": "**Ines Barros**, Package Manager at Northpane Facades: tel. **0161 555 0187**, i.barros@northpane-facades.example.",
+    "citations": [
+      {
+        "documentId": "doc-ald-001",
+        "page": 2,
+        "quote": "Facade subcontractor – Northpane Facades: Ines Barros, Package Manager, tel. 0161 555 0187, i.barros@northpane-facades.example"
+      }
+    ],
+    "followUps": [
+      "When does the facade mock-up need to be approved?",
+      "What insulation is used in the facade?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-007",
+    "projectId": "prj-aldermoor",
+    "question": "What U-value is required for the windows?",
+    "keywords": [
+      "u-value",
+      "uw",
+      "ug",
+      "window",
+      "thermal",
+      "glazing",
+      "velto",
+      "ax70"
+    ],
+    "answer": "The spec requires a whole-window **Uw ≤ 1.2 W/m²K**, with double glazing at **Ug ≤ 1.0 W/m²K** (warm edge, argon). The Velto AX70 system achieves **Uw 1.1 W/m²K** for the reference window. The acoustic units on the east elevation (CO-007) must still achieve Uw 1.2 W/m²K or better.",
+    "citations": [
+      {
+        "documentId": "doc-ald-004",
+        "page": 1,
+        "quote": "The whole-window thermal transmittance shall not exceed Uw 1.2 W/m²K, calculated to EN ISO 10077 for the standard window size."
+      },
+      {
+        "documentId": "doc-ald-025",
+        "page": 1,
+        "quote": "Whole window Uw with double glazing Ug 1.0 W/m²K and warm edge spacer: 1.1 W/m²K for the reference window 1,230 x 1,480 mm."
+      },
+      {
+        "documentId": "doc-ald-018",
+        "page": 1,
+        "quote": "The whole-window thermal transmittance remains Uw 1.2 W/m²K or better"
+      }
+    ],
+    "followUps": [
+      "What colour are the window frames?",
+      "What changed with the glazing on the east elevation?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-008",
+    "projectId": "prj-aldermoor",
+    "question": "What changed with the glazing on the east elevation?",
+    "keywords": [
+      "east elevation",
+      "acoustic",
+      "glazing",
+      "co-007",
+      "aldermoor road",
+      "laminated",
+      "noise",
+      "rw+ctr"
+    ],
+    "answer": "Under **ALD-CO-007** (approved 1 October 2026), the 18 windows and 6 balcony doors facing Aldermoor Road on **Levels 1–3** get **acoustic laminated double glazing** achieving **Rw+Ctr 36 dB**. This followed the updated acoustic assessment after the new bus route was confirmed. The change adds £9,850 and has no programme impact, as Velto includes the units in the first production batch.",
+    "citations": [
+      {
+        "documentId": "doc-ald-018",
+        "page": 1,
+        "quote": "The windows and balcony doors on the east elevation facing Aldermoor Road, at Levels 1, 2 and 3, are upgraded to acoustic laminated double glazing."
+      },
+      {
+        "documentId": "doc-ald-018",
+        "page": 1,
+        "quote": "Required performance: sound reduction Rw+Ctr 36 dB in the closed position, tested to EN ISO 10140."
+      },
+      {
+        "documentId": "doc-ald-013",
+        "page": 1,
+        "quote": "LO reported that the updated acoustic assessment, issued after the bus route on Aldermoor Road was confirmed, requires higher sound insulation to the bedrooms and living rooms facing Aldermoor Road."
+      },
+      {
+        "documentId": "doc-ald-018",
+        "page": 2,
+        "quote": "Velto Windows will include them in the first production batch (Levels 1 and 2) so there is no impact on the window installation start or the completion date."
+      }
+    ],
+    "followUps": [
+      "What U-value is required for the windows?",
+      "What colour are the window frames?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-009",
+    "projectId": "prj-aldermoor",
+    "question": "What did the last building control inspection find?",
+    "keywords": [
+      "building control",
+      "inspection",
+      "rui tanaka",
+      "defect",
+      "fire-stopping",
+      "penetrations",
+      "plant room",
+      "bc-005"
+    ],
+    "answer": "Rui Tanaka's inspection on **22 September 2026** (ALD-INS-BC-005) found the basement work satisfactory except for **defect D1**: three unsealed service penetrations through the 120-minute plant room wall. D1 was **closed at the re-inspection on 13 October 2026**. Still open: car park ventilation commissioning certificates (including CO/NO2 set points) are needed before the completion inspection.",
+    "citations": [
+      {
+        "documentId": "doc-ald-028",
+        "page": 1,
+        "quote": "Three service penetrations (two cable trays and one 110 mm drainage pipe) through the 120-minute plant room wall into the car park are not fire-stopped."
+      },
+      {
+        "documentId": "doc-ald-028",
+        "page": 2,
+        "quote": "Defect D1 closed. All three penetrations fire-stopped with a tested intumescent collar and batt system, labelled with the installer's details and the system reference."
+      },
+      {
+        "documentId": "doc-ald-028",
+        "page": 1,
+        "quote": "The commissioning certificates for the car park ventilation, including the CO and NO2 detection set points, must be provided before the completion inspection."
+      },
+      {
+        "documentId": "doc-ald-014",
+        "page": 2,
+        "quote": "the defect raised at the 22 September inspection (unsealed penetrations in the plant room wall) was closed out at the re-inspection on 13 October."
+      }
+    ],
+    "followUps": [
+      "What waterproofing approach is used for the basement?",
+      "How many EV chargers are in the car park?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-010",
+    "projectId": "prj-aldermoor",
+    "question": "What waterproofing approach is used for the basement?",
+    "keywords": [
+      "waterproofing",
+      "basement",
+      "type b",
+      "type c",
+      "grade 2",
+      "grade 3",
+      "waterbar",
+      "leak",
+      "watertight"
+    ],
+    "answer": "The basement uses **combined protection**:\n\n- **Type B** structurally integral concrete (raft and walls with crystalline admixture) throughout; the car park must reach **Grade 2**\n- **Type C** drained cavity in the plant room and cycle store, which must reach **Grade 3**\n- A hydrophilic waterbar plus re-injectable hose at every kicker and construction joint\n\nThe injection hose was used to seal the W2/W3 joint leak found in July 2026.",
+    "citations": [
+      {
+        "documentId": "doc-ald-002",
+        "page": 3,
+        "quote": "Type B (structurally integral) protection is provided by the raft and retaining walls with the crystalline admixture."
+      },
+      {
+        "documentId": "doc-ald-002",
+        "page": 3,
+        "quote": "In addition, Type C (drained cavity) protection is required to the plant room and cycle store, which shall achieve a Grade 3 environment."
+      },
+      {
+        "documentId": "doc-ald-002",
+        "page": 3,
+        "quote": "All kicker joints and vertical construction joints in the raft and basement walls shall incorporate a hydrophilic waterbar strip together with a re-injectable injection hose."
+      },
+      {
+        "documentId": "doc-ald-027",
+        "page": 2,
+        "quote": "Remedial injection of the W2/W3 joint and sleeve S-14 was carried out by Sealtech Injection Services on Wednesday 15 July 2026."
+      }
+    ],
+    "followUps": [
+      "What concrete class is specified for the basement walls?",
+      "What did the last building control inspection find?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-011",
+    "projectId": "prj-aldermoor",
+    "question": "How many EV chargers are in the car park?",
+    "keywords": [
+      "ev",
+      "ev charger",
+      "electric vehicle",
+      "charging",
+      "car park",
+      "co-002",
+      "chargers",
+      "db-ev1"
+    ],
+    "answer": "**12 active 7.4 kW chargers** (including 2 of the 4 accessible spaces), with **passive provision for the other 50 spaces**. The spec originally had 6 active chargers; change order **ALD-CO-002** doubled this and upgraded the DB-EV1 sub-main from 100 A to 160 A (+£27,600).",
+    "citations": [
+      {
+        "documentId": "doc-ald-005",
+        "page": 3,
+        "quote": "Six car parking spaces shall be provided with active 7.4 kW Mode 3 chargers (Type 2 sockets), with load management to limit the total EV demand to the available supply capacity."
+      },
+      {
+        "documentId": "doc-ald-015",
+        "page": 1,
+        "quote": "Revised scope: 12 of the 62 car parking spaces will have active 7.4 kW Mode 3 chargers with Type 2 sockets, including 2 of the 4 accessible spaces."
+      },
+      {
+        "documentId": "doc-ald-015",
+        "page": 1,
+        "quote": "the sub-main to DB-EV1 increases from 100 A TP&N to 160 A TP&N, and DB-EV1 is upgraded to a 24-way board."
+      }
+    ],
+    "followUps": [
+      "What did the last building control inspection find?",
+      "When is practical completion?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-012",
+    "projectId": "prj-aldermoor",
+    "question": "What insulation is used in the facade?",
+    "keywords": [
+      "insulation",
+      "facade",
+      "thermarock",
+      "mineral wool",
+      "stone wool",
+      "u-value",
+      "a1",
+      "rainscreen"
+    ],
+    "answer": "**160 mm Thermarock FS35** stone wool rainscreen slab (λ 0.035 W/mK, **Class A1** non-combustible), plus 100 mm mineral wool between the SFS studs. The typical wall achieves **U = 0.16 W/m²K** against the 0.18 W/m²K target.",
+    "citations": [
+      {
+        "documentId": "doc-ald-003",
+        "page": 2,
+        "quote": "160 mm Thermarock FS35 rainscreen insulation slab, mechanically fixed;"
+      },
+      {
+        "documentId": "doc-ald-003",
+        "page": 2,
+        "quote": "The calculated U-value of the typical wall build-up is 0.16 W/m²K, including bracket bridging factors."
+      },
+      {
+        "documentId": "doc-ald-026",
+        "page": 1,
+        "quote": "Reaction to fire (EN 13501-1): Class A1, non-combustible (the facing does not affect classification)."
+      }
+    ],
+    "followUps": [
+      "When does the facade mock-up need to be approved?",
+      "Who is the contact at Northpane Facades?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-013",
+    "projectId": "prj-aldermoor",
+    "question": "When is practical completion?",
+    "keywords": [
+      "practical completion",
+      "completion date",
+      "handover",
+      "finish date",
+      "programme",
+      "end date",
+      "float"
+    ],
+    "answer": "**Wednesday 30 June 2027**, the contractual date, unchanged in Programme Rev 7. Float on the critical path has dropped from 15 to **6 working days** since the Level 4 slab delay. The building control completion inspection is programmed for 14 June 2027.",
+    "citations": [
+      {
+        "documentId": "doc-ald-031",
+        "page": 1,
+        "quote": "Contract dates: start on site Monday 1 September 2025; practical completion Wednesday 30 June 2027 (unchanged)."
+      },
+      {
+        "documentId": "doc-ald-031",
+        "page": 1,
+        "quote": "Total float on the critical path is now 6 working days, down from 15 working days in Rev 6."
+      },
+      {
+        "documentId": "doc-ald-031",
+        "page": 2,
+        "quote": "M20 Building control completion inspection – 14 Jun 2027 – forecast."
+      }
+    ],
+    "followUps": [
+      "When is the level 4 slab pour?",
+      "When does the facade mock-up need to be approved?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-014",
+    "projectId": "prj-aldermoor",
+    "question": "Why was the basement wall pour postponed in March?",
+    "keywords": [
+      "w3",
+      "wall pour",
+      "postponed",
+      "march",
+      "batching plant",
+      "greystone",
+      "delay",
+      "cancelled"
+    ],
+    "answer": "The **wall W3** pour (north wall, approx. 46 m³) planned for **Saturday 14 March 2026** was cancelled because Greystone's batching plant had a **conveyor failure**. With frost forecast for Monday, it was rebooked for **Tuesday 17 March 2026 at 07:30**. This contributed to the basement walls finishing one week late, on 29 May 2026.",
+    "citations": [
+      {
+        "documentId": "doc-ald-008",
+        "page": 1,
+        "quote": "At 06:45 Carys Doyle (Greystone Ready-Mix) phoned to say the batching plant had suffered a conveyor failure and no concrete could be supplied today."
+      },
+      {
+        "documentId": "doc-ald-008",
+        "page": 1,
+        "quote": "MF and DW agreed to book the pour for Tuesday 17 March 2026 at 07:30 instead."
+      },
+      {
+        "documentId": "doc-ald-012",
+        "page": 1,
+        "quote": "Basement walls were completed on 29 May 2026, one week later than the Rev 5 programme, mainly due to the postponed W3 pour in March and the wet weather in April."
+      }
+    ],
+    "followUps": [
+      "What concrete class is specified for the basement walls?",
+      "What are the curing requirements for the basement walls?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-015",
+    "projectId": "prj-aldermoor",
+    "question": "What are the curing requirements for the basement walls?",
+    "keywords": [
+      "curing",
+      "basement wall",
+      "formwork",
+      "striking",
+      "cold weather",
+      "frost",
+      "7 days",
+      "blankets"
+    ],
+    "answer": "Basement walls (XD3/XA2) must be cured for **at least 7 days**. Wall formwork stays in place for **at least 3 days**, then curing continues with an approved curing membrane or wet hessian under polythene. If frost is forecast within 72 hours of placing, protect the concrete with insulated blankets.",
+    "citations": [
+      {
+        "documentId": "doc-ald-002",
+        "page": 4,
+        "quote": "Elements in exposure class XD3 or XA2 shall be cured for a minimum of 7 days; all other elements for a minimum of 4 days."
+      },
+      {
+        "documentId": "doc-ald-002",
+        "page": 4,
+        "quote": "Wall formwork shall remain in place for at least 3 days, after which curing shall continue using an approved curing membrane or wet hessian under polythene."
+      },
+      {
+        "documentId": "doc-ald-002",
+        "page": 4,
+        "quote": "Freshly placed concrete shall be protected with insulated blankets when frost is forecast within 72 hours of placing."
+      },
+      {
+        "documentId": "doc-ald-019",
+        "page": 2,
+        "quote": "Please ensure the 7-day minimum curing period in clause 5.4 is applied to all basement walls; wall formwork is to stay in place for at least 3 days."
+      }
+    ],
+    "followUps": [
+      "What is the maximum water-cement ratio for the basement wall concrete?",
+      "Why was the basement wall pour postponed in March?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-016",
+    "projectId": "prj-aldermoor",
+    "question": "Who is the lift installer?",
+    "keywords": [
+      "lift installer",
+      "lift",
+      "elevator",
+      "lift subcontractor",
+      "lift contractor"
+    ],
+    "answer": "I couldn't find this in your documents.",
+    "citations": [],
+    "followUps": [
+      "Who is the contact at Northpane Facades?",
+      "When is practical completion?"
+    ],
+    "found": false
+  },
+  {
+    "id": "ans-017",
+    "projectId": "prj-aldermoor",
+    "question": "What is the remaining contingency budget?",
+    "keywords": [
+      "contingency",
+      "budget",
+      "remaining budget",
+      "cost report",
+      "contingency sum",
+      "money left"
+    ],
+    "answer": "I couldn't find this in your documents.",
+    "citations": [],
+    "followUps": [
+      "How many EV chargers are in the car park?",
+      "What changed with the glazing on the east elevation?"
+    ],
+    "found": false
+  },
+  {
+    "id": "ans-018",
+    "projectId": "prj-aldermoor",
+    "question": "What is the warranty period for the air source heat pumps?",
+    "keywords": [
+      "warranty",
+      "heat pump",
+      "air source heat pump",
+      "ashp",
+      "guarantee",
+      "warranty period"
+    ],
+    "answer": "I couldn't find this in your documents.",
+    "citations": [],
+    "followUps": [
+      "What did the last building control inspection find?",
+      "When is practical completion?"
+    ],
+    "found": false
+  },
+  {
+    "id": "ans-019",
+    "projectId": "prj-kestrel",
+    "question": "When are the kitchens being installed?",
+    "keywords": [
+      "kitchen",
+      "kitchens",
+      "fernhill",
+      "installation",
+      "install date",
+      "worktop",
+      "plots"
+    ],
+    "answer": "Fernhill Kitchens install in two phases: **plots 1–4 from Monday 9 November 2026** and **plots 5–8 from Monday 23 November 2026**, each taking about two weeks including worktop templating. Floor finishes follow from 30 November (plots 1–4) and 14 December (plots 5–8).",
+    "citations": [
+      {
+        "documentId": "doc-kes-004",
+        "page": 1,
+        "quote": "Fernhill Kitchens will install kitchens in plots 1 to 4 from Monday 9 November 2026 and in plots 5 to 8 from Monday 23 November 2026, with each phase taking about two weeks including worktop templating and fitting."
+      },
+      {
+        "documentId": "doc-kes-005",
+        "page": 1,
+        "quote": "Kitchens plots 5 to 8 (Fernhill Kitchens) – from 23 Nov 2026."
+      },
+      {
+        "documentId": "doc-kes-004",
+        "page": 2,
+        "quote": "LVT and carpets to follow the kitchens: plots 1 to 4 from 30 November, plots 5 to 8 from 14 December."
+      }
+    ],
+    "followUps": [
+      "Did all the townhouses pass the airtightness test?",
+      "When is practical completion for Kestrel Lane?"
+    ],
+    "found": true
+  },
+  {
+    "id": "ans-020",
+    "projectId": "prj-kestrel",
+    "question": "Did all the townhouses pass the airtightness test?",
+    "keywords": [
+      "airtightness",
+      "air test",
+      "air permeability",
+      "plot 6",
+      "blower door",
+      "pass",
+      "fail",
+      "re-test"
+    ],
+    "answer": "Yes. All eight plots now meet the **3.0 m³/(h·m²) at 50 Pa** target. **Plot 6 failed** the first test on 24 September (3.62) because of leaks at joist ends, the soil vent pipe and a back box. After sealing, it **passed the re-test at 2.71** on 1 October 2026.",
+    "citations": [
+      {
+        "documentId": "doc-kes-003",
+        "page": 2,
+        "quote": "All eight plots now meet the design air permeability of 3.0 m³/(h·m²) at 50 Pa."
+      },
+      {
+        "documentId": "doc-kes-004",
+        "page": 1,
+        "quote": "Plot 6 failed the first test at 3.62 and passed the re-test at 2.71 after the joist end penetrations and the soil vent pipe were sealed."
+      },
+      {
+        "documentId": "doc-kes-003",
+        "page": 2,
+        "quote": "Re-test of Plot 6 (1 October 2026): 2.71 m³/(h·m²) at 50 Pa. Pass."
+      }
+    ],
+    "followUps": [
+      "When are the kitchens being installed?",
+      "How are the MVHR ducts routed through the floor joists?"
+    ],
+    "found": true
+  }
+]

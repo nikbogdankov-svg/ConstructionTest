@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mem-001",
+    "projectId": "prj-aldermoor",
+    "text": "Basement walls are C32/40 (XC4/XD3/XA2) with crystalline admixture; the 0.45 max water-cement ratio is not relaxed by the admixture.",
+    "category": "decision",
+    "pinned": true,
+    "createdAt": "2026-10-21T07:45:02Z",
+    "updatedAt": "2026-10-21T07:45:02Z",
+    "sourceConversationId": "conv-001"
+  },
+  {
+    "id": "mem-002",
+    "projectId": "prj-aldermoor",
+    "text": "All basement kicker and construction joints get a hydrophilic waterbar plus a re-injectable injection hose.",
+    "category": "decision",
+    "pinned": false,
+    "createdAt": "2026-10-21T07:48:15Z",
+    "updatedAt": "2026-10-21T07:48:15Z",
+    "sourceConversationId": "conv-001"
+  },
+  {
+    "id": "mem-003",
+    "projectId": "prj-aldermoor",
+    "text": "Level 4 slab pour moved to 18 Nov 2026 (07:00, ~205 m³) after Ridgeform's table form delivery slipped to 9 Nov.",
+    "category": "deadline",
+    "pinned": true,
+    "createdAt": "2026-11-03T07:56:30Z",
+    "updatedAt": "2026-11-04T09:12:44Z",
+    "sourceConversationId": "conv-002"
+  },
+  {
+    "id": "mem-004",
+    "projectId": "prj-aldermoor",
+    "text": "Facade mock-up approval due Fri 20 Nov 2026; Lena Okafor and Sasha Morel must both sign.",
+    "category": "deadline",
+    "pinned": true,
+    "createdAt": "2026-11-03T07:59:20Z",
+    "updatedAt": "2026-11-03T07:59:20Z",
+    "sourceConversationId": "conv-002"
+  },
+  {
+    "id": "mem-005",
+    "projectId": "prj-aldermoor",
+    "text": "Ines Barros, Northpane Facades package manager: 0161 555 0187, i.barros@northpane-facades.example.",
+    "category": "contact",
+    "pinned": false,
+    "createdAt": "2026-11-03T08:01:40Z",
+    "updatedAt": "2026-11-03T08:01:40Z",
+    "sourceConversationId": "conv-002"
+  },
+  {
+    "id": "mem-006",
+    "projectId": "prj-aldermoor",
+    "text": "Window frames changed to RAL 7022 outside / RAL 9016 inside under CO-004 (approved 22 Jun 2026).",
+    "category": "change",
+    "pinned": false,
+    "createdAt": "2026-11-05T13:11:05Z",
+    "updatedAt": "2026-11-05T13:11:05Z",
+    "sourceConversationId": "conv-003"
+  },
+  {
+    "id": "mem-007",
+    "projectId": "prj-aldermoor",
+    "text": "East elevation windows on Levels 1–3 get acoustic laminated glazing, Rw+Ctr 36 dB (CO-007).",
+    "category": "change",
+    "pinned": false,
+    "createdAt": "2026-11-05T13:14:30Z",
+    "updatedAt": "2026-11-05T13:14:30Z",
+    "sourceConversationId": "conv-003"
+  },
+  {
+    "id": "mem-008",
+    "projectId": "prj-aldermoor",
+    "text": "Owen Pratt (Ridgeform Hire) handles table form deliveries: 0161 555 0198, o.pratt@ridgeform-hire.example.",
+    "category": "contact",
+    "pinned": false,
+    "createdAt": "2026-10-27T11:30:00Z",
+    "updatedAt": "2026-10-27T11:30:00Z",
+    "sourceConversationId": null
+  }
+]

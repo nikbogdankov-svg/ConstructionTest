@@ -1,0 +1,41 @@
+[
+  {
+    "id": "prj-aldermoor",
+    "code": "ALD",
+    "name": "Aldermoor Court",
+    "description": "Six-storey residential building with 48 apartments above a one-level underground car park (62 spaces) on a reinforced concrete raft. In-situ concrete frame, brick slip rainscreen facade and aluminium windows.",
+    "address": "14 Aldermoor Road, Eastbrook",
+    "client": "Eastbrook Living Housing Association",
+    "status": "active",
+    "phase": "Superstructure & envelope",
+    "startDate": "2025-09-01",
+    "plannedCompletion": "2027-06-30",
+    "accent": "primary"
+  },
+  {
+    "id": "prj-kestrel",
+    "code": "KES",
+    "name": "Kestrel Lane Townhouses",
+    "description": "Eight two-storey, three-bedroom timber-frame townhouses with private gardens, MVHR and individual air source heat pumps.",
+    "address": "Plots 1–8, Kestrel Lane, Eastbrook",
+    "client": "Morrow Homes Partnership",
+    "status": "active",
+    "phase": "Fit-out",
+    "startDate": "2025-11-03",
+    "plannedCompletion": "2027-02-26",
+    "accent": "accent"
+  },
+  {
+    "id": "prj-harbour",
+    "code": "HBY",
+    "name": "Harbour Yard Offices",
+    "description": "Four-storey office building of approximately 5,200 m² with ground floor retail, currently at planning and design stage.",
+    "address": "2 Harbour Yard, Eastbrook",
+    "client": "Harbour Yard Estates Ltd",
+    "status": "planning",
+    "phase": "Planning & design",
+    "startDate": "2027-04-05",
+    "plannedCompletion": "2028-09-29",
+    "accent": "info"
+  }
+]
