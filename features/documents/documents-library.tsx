@@ -22,6 +22,7 @@ import { formatCount } from "@/lib/format";
 import { DocumentsCardList } from "./documents-card-list";
 import { DocumentsLoading } from "./documents-loading";
 import { DocumentsTable } from "./documents-table";
+import { DocumentViewerSheet } from "./document-viewer-sheet";
 import { DOCUMENT_QUERY_PARAM, filterDocuments } from "./document-search";
 import { SORT_OPTIONS, parseDocumentSort, serializeDocumentSort, sortToValue, toggleSort } from "./document-sort";
 
@@ -73,6 +74,16 @@ export function DocumentsLibrary({ projectId }: { projectId: string }) {
     [documents.status, documents.data, query],
   );
   const isSearching = query.trim().length > 0;
+
+  // ?doc=<documentId> opens that document in the viewer panel, so a link (or reload) reopens it.
+  const openDocId = searchParams.get("doc");
+  const openDoc = openDocId && documents.status === "success" ? documents.data.find((d) => d.id === openDocId) : undefined;
+  const closeViewer = () => {
+    const next = new URLSearchParams(searchParams);
+    next.delete("doc");
+    const search = next.toString();
+    router.replace(`${pathname}${search ? `?${search}` : ""}`, { scroll: false });
+  };
 
   const onColumnSort = (key: DocumentSortKey) => setSort(toggleSort(sort, key));
   const projectName = project.status === "success" ? project.data.name : null;
@@ -203,6 +214,10 @@ export function DocumentsLibrary({ projectId }: { projectId: string }) {
             <DocumentsCardList documents={visibleDocuments} label={listLabel} />
           </div>
         </div>
+      )}
+
+      {openDoc && (
+        <DocumentViewerSheet doc={openDoc} open onOpenChange={(open) => !open && closeViewer()} />
       )}
     </div>
   );
