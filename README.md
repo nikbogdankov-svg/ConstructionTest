@@ -5,7 +5,7 @@
 This repository is a **deliberately unfinished starting point**, used to compare AI design and coding tools. It contains:
 
 - a brandbook: [`BRAND.md`](BRAND.md) (and [`BRAND.pdf`](BRAND.pdf))
-- a complete, brand-styled design system (tokens + components), shown live at **`/design-system`**
+- a complete, brand-styled design system (tokens in `styles/tokens.css`, components in `components/ui`)
 - the beginning of the product: app shell, Projects, and the **Documents library** (the reference screen)
 - a typed mock data layer with simulated latency, streaming answers and forced error/slow modes
 - the remaining work, with acceptance criteria: [`TASKS.md`](TASKS.md)
@@ -43,7 +43,6 @@ Open http://localhost:3000. It redirects to `/projects`.
 | `/projects/[projectId]/chat` | 🚧 Placeholder (Task 1) |
 | `/projects/[projectId]/search` | 🚧 Placeholder (Task 4) |
 | `/projects/[projectId]/memory` | 🚧 Placeholder (Task 3) |
-| `/design-system` | ✅ Every token and component, all variants and states, light and dark side by side |
 
 Project ids: `prj-aldermoor` (main project, 32 documents), `prj-kestrel` (small, 6 documents), `prj-harbour` (empty).
 
@@ -64,7 +63,6 @@ app/                              Next.js App Router (route files stay thin)
       layout.tsx                  Loads the project (ProjectProvider) + not-found gate
       documents/page.tsx          Documents library (reference screen)
       chat|search|memory/page.tsx Placeholders ("Not built yet")
-  design-system/                  Living reference of tokens + components
 components/
   ui/                             DESIGN SYSTEM: generic, brand-styled (shadcn/Radix based)
   shell/                          App shell: sidebar, top bar, project switcher, user menu, theme toggle
@@ -100,7 +98,7 @@ TASKS.md                          The brief for the remaining work
 
 - **Tokens** live only in `styles/tokens.css`. Tailwind's default colours, font sizes, radii and shadows are **reset**, so only brand utilities exist: `bg-primary`, `text-foreground-muted`, `text-h2`, `rounded-sm`, `shadow-md`, `h-control-md`, `size-icon-md`, `focus-visible:focus-ring`, …
 - **Components** are in `components/ui` (import from `@/components/ui/<name>` or the `@/components/ui` barrel): Accordion, Alert, AlertDialog, Avatar, Badge, Breadcrumbs, Button, Card, Checkbox, Combobox, Command, Dialog, DropdownMenu, EmptyState, FormField, IconButton, Input, Kbd, Label, Markdown, PageHeader, Pagination, Popover, Progress, RadioGroup, ScrollArea, Select, Separator, Sheet, Skeleton, Spinner, Switch, Table (+ SortableTableHead), Tabs, Tag, Textarea, Toast, Tooltip, Typography (Heading, Text, Code).
-- **Dark mode** is class-based (`.dark` on `<html>`, via next-themes). `.light` / `.dark` can also be put on any element to force a theme for that subtree, which is how `/design-system` shows both side by side.
+- **Dark mode** is class-based (`.dark` on `<html>`, via next-themes). `.light` / `.dark` can also be put on any element to force a theme for that subtree.
 
 ## Mock data & API
 

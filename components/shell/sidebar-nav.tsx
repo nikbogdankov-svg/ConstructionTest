@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { useParams, usePathname } from "next/navigation";
-import { Palette } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { ProductLogo } from "@/components/brand/logo";
 import { PROJECT_NAV, WORKSPACE_NAV } from "./nav-items";
@@ -64,12 +63,6 @@ export function SidebarNav({ onNavigate }: { onNavigate?: () => void }) {
                 </li>
               );
             })}
-            <li>
-              <Link href="/design-system" onClick={onNavigate} className={itemClass(false)}>
-                <Palette aria-hidden />
-                Design system
-              </Link>
-            </li>
           </ul>
         </div>
       </nav>

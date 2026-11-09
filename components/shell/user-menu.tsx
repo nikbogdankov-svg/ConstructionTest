@@ -1,7 +1,6 @@
 "use client";
 
-import Link from "next/link";
-import { ChevronDown, LogOut, Palette, RotateCcw, UserRound } from "lucide-react";
+import { ChevronDown, LogOut, RotateCcw, UserRound } from "lucide-react";
 import { Avatar } from "@/components/ui/avatar";
 import {
   DropdownMenu,
@@ -41,11 +40,6 @@ export function UserMenu() {
         <DropdownMenuSeparator />
         <DropdownMenuItem disabled>
           <UserRound aria-hidden /> Profile
-        </DropdownMenuItem>
-        <DropdownMenuItem asChild>
-          <Link href="/design-system">
-            <Palette aria-hidden /> Design system
-          </Link>
         </DropdownMenuItem>
         <DropdownMenuItem
           onSelect={() => {

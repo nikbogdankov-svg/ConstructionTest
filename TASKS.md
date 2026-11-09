@@ -6,7 +6,7 @@ The project is **frontend only**. There is no backend, no LLM, no API keys and n
 
 What already exists:
 
-- the brand (`BRAND.md`) and the complete design system: tokens in `styles/tokens.css`, components in `components/ui`, and a live reference at **`/design-system`**
+- the brand (`BRAND.md`) and the complete design system: tokens in `styles/tokens.css`, components in `components/ui`
 - the app shell (sidebar, top bar, project switcher, user menu, theme toggle, mobile drawer)
 - the **Projects** page and the **Documents** library (the reference screen)
 - placeholder pages for **Chat**, **Search** and **Memory**

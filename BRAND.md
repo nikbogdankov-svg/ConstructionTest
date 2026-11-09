@@ -1,7 +1,7 @@
 # Plinthwork Brandbook
 
 > Plinthwork · **Plumb**, the project assistant · Version 1.0 · November 2026
-> The source of truth for code is `styles/tokens.css` (tokens) and `components/ui` (components). The live reference is `/design-system`. This document is written so it can be pasted into any design or coding tool.
+> The source of truth for code is `styles/tokens.css` (tokens) and `components/ui` (components). This document is written so it can be pasted into any design or coding tool.
 
 ---
 
