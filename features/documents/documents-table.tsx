@@ -3,6 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { formatDate } from "@/lib/format";
 import type { DocumentSort, DocumentSortKey, DocumentSummary } from "@/lib/mock/types";
 import { DOCUMENT_TYPE_META, TRADE_LABELS } from "./document-meta";
+import { DocumentInfoPopover } from "./document-info-popover";
 
 interface DocumentsTableProps {
   documents: DocumentSummary[];
@@ -41,17 +42,10 @@ export function DocumentsTable({ documents, sort, onSort, caption }: DocumentsTa
       <TableBody>
         {documents.map((doc) => {
           const meta = DOCUMENT_TYPE_META[doc.type];
-          const Icon = meta.icon;
           return (
             <TableRow key={doc.id}>
               <TableCell>
-                <div className="flex items-start gap-3">
-                  <Icon className="mt-0.5 size-icon-md shrink-0 text-foreground-subtle" aria-hidden />
-                  <div className="flex min-w-0 flex-col">
-                    <span className="font-bold text-foreground">{doc.title}</span>
-                    <span className="font-mono text-caption text-foreground-subtle">{doc.code}</span>
-                  </div>
-                </div>
+                <DocumentInfoPopover doc={doc} />
               </TableCell>
               <TableCell>
                 <Badge tone={meta.tone} size="sm">
